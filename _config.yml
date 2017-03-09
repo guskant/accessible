@@ -1,11 +1,11 @@
 theme: jekyll-theme-midnight
 collections:
-        site:
+        notes:
                 output: true
                 permalink: :title.html
 defaults:
   - scope:
       path: ""
-      type: site
+      type: notes
     values:
       layout: post
