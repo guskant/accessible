@@ -2,4 +2,4 @@ theme: jekyll-theme-midnight
 collections:
         site:
                 output: true
-
+                permalink: title.html
