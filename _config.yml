@@ -2,9 +2,4 @@ theme: jekyll-theme-midnight
 collections:
         site:
                 output: true
-defaults:
-  - scope:
-      path: ""
-      type: site
-    values:
-      layout: post
+
