@@ -1,10 +1,10 @@
 theme: jekyll-theme-midnight
 collections:
-        pages:
+        site:
                 output: true
 defaults:
   - scope:
       path: ""
-      type: pages
+      type: site
     values:
       layout: post
