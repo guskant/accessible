@@ -2,3 +2,9 @@ theme: jekyll-theme-midnight
 collections:
         pages:
                 output: true
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: post
