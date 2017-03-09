@@ -3,3 +3,9 @@ collections:
         site:
                 output: true
                 permalink: title.html
+defaults:
+  - scope:
+      path: ""
+      type: site
+    values:
+      layout: post
