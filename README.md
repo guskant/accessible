@@ -1,3 +1,3 @@
  notes for blind or dyslexia Japanese speakers.
   {% for page in site.pages %}
-- [{{ page.title }}]({{ page.url }}) {% endfor %}
+- [{{ page.title }}]({{ site.url }}{{ page.url }}) {% endfor %}
