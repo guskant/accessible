@@ -1,8 +1,8 @@
 theme: jekyll-theme-hacker
 collections:
-  - notes:
-      output: true
-      permalink: :title.html
+  notes:
+    output: true
+    permalink: :title.html
 defaults:
   - scope:
       path: ""
