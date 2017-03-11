@@ -3,10 +3,9 @@ collections:
   - notes:
       output: true
       permalink: :title.html
-    defaults:
-      - scope:
-          path: ""
-          type: notes
-        values:
-          layout: post
-
+defaults:
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: post
