@@ -1,0 +1,8 @@
+- name: "Australia ABC Classic"
+  stream: "http://live-radio01.mediahubaustralia.com/2FMW/mp3/"
+  keywords: "classic くらしっく クラシック"
+
+- name: "Australia ABC Jazz"
+  stream: "http://live-radio01.mediahubaustralia.com/JAZW/mp3/"
+  keywords: "jazz じゃず ジャズ"
+
