@@ -1,48 +1,48 @@
 - id: abcc
   name: Australia ABC Classic
-  keywords: classic くらしっく クラシック
+  keywords: classic くらしっく クラシック オーストラリア おーすとらりあ
   stream: http://live-radio01.mediahubaustralia.com/2FMW/mp3/;
   website: http://www.abc.net.au/classic/
   codec: mp3
 
 - id: abcj
   name: Australia ABC Jazz
-  keywords: jazz じゃず ジャズ
+  keywords: jazz じゃず ジャズ オーストラリア おーすとらりあ
   stream: http://live-radio01.mediahubaustralia.com/JAZW/mp3/;
   website: http://abcjazz.net.au/
   codec: mp3
 
 - id: wcrb
   name: WCRB Classical Radio Boston
-  keywords: classic くらしっく クラシック
+  keywords: classic くらしっく クラシック ポストン ぽすとん
   stream: http://audio.wgbh.org:8006
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbbso
   name: WCRB BSO Concert Channel
-  keywords: classic くらしっく クラシック
+  keywords: classic くらしっく クラシック ポストン ぽすとん Boston
   stream: http://audio.wgbh.org:8106
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbe
   name: WCRB Boston Early Music Channel
-  keywords: classic くらしっく クラシック
+  keywords: classic くらしっく クラシック ポストン ぽすとん
   stream: http://audio.wgbh.org:8112
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbb
   name: WCRB Bach Channel
-  keywords: classic くらしっく クラシック
+  keywords: classic くらしっく クラシック ポストン ぽすとん Boston
   stream: http://audio.wgbh.org:8108
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbk
   name: WCRB Kids Classical Channel
-  keywords: classic くらしっく クラシック
+  keywords: classic くらしっく クラシック ポストン ぽすとん Boston
   stream: http://audio.wgbh.org:8110
   website: http://classicalwcrb.org/
   codec: mp3
@@ -56,21 +56,21 @@
 
 - id: cd1019
   name: Smooth Jazz Cd101.9 New York 
-  keywords: jazz じゃず ジャズ
+  keywords: jazz じゃず ジャズ ニューヨーク にゅーよーく
   stream: http://hestia2.cdnstream.com/1277_192
   website: http://www.smoothjazzcd1019.com/
   codec: mp3
 
 - id: ottava
   name: オッターバ
-  keywords: classic くらしっく クラシック
+  keywords: classic くらしっく クラシック ottava 日本 にほん ニホン japan
   stream: http://rakuten.streamguys1.com/ottava1_b
   website: http://ottava.jp/
   codec: mp3
 
 - id: tsfj
   name: TSF Jazz Paris 
-  keywords: jazz じゃず ジャズ
+  keywords: jazz じゃず ジャズ ぱり パリ
   stream: http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
   website: http://www.tsfjazz.com/
   codec: mp3
