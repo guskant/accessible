@@ -12,7 +12,7 @@ layout: search
 <script>
   window.store = {
     {% for radio in site.data.radios %}
-      "{{ post.url | slugify }}": {
+      "{{ radio.id | slugify }}": {
         "title": "{{ radio.name | xml_escape }}",
         "author": "",
         "category": "",
