@@ -3,7 +3,7 @@ layout: post
 title: インターネット・ラジオ局
 ---
 ## ラジオ局のリスト
-<form action="/accessible/radiosearch.html" method="get">
+<form action="/accessible/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query" placeholder="Search">
   <input type="submit" value="search">
