@@ -4,4 +4,4 @@ title: インターネット・ラジオ局
 ---
 ## ラジオ局のリスト
 {% for radio in site.data.radios %}
-- [{{ item.name }}]({{ item.stream }}){% endfor %}
+- [{{ radio.station.name }}]({{ radio.station.stream }}){% endfor %}
