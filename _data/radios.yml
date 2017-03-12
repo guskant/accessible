@@ -14,42 +14,42 @@
 
 - id: wcrb
   name: WCRB Classical Radio Boston
-  keywords: classic くらしっく クラシック ポストン ぽすとん
+  keywords: classic くらしっく クラシック ボストン ぼすとん Boston
   stream: http://audio.wgbh.org:8006
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbbso
   name: WCRB BSO Concert Channel
-  keywords: classic くらしっく クラシック ポストン ぽすとん Boston
+  keywords: classic くらしっく クラシック ボストン ぼすとん Boston
   stream: http://audio.wgbh.org:8106
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbe
   name: WCRB Boston Early Music Channel
-  keywords: classic くらしっく クラシック ポストン ぽすとん
+  keywords: classic くらしっく クラシック ボストン ぼすとん Boston
   stream: http://audio.wgbh.org:8112
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbb
   name: WCRB Bach Channel
-  keywords: classic くらしっく クラシック ポストン ぽすとん Boston
+  keywords: classic くらしっく クラシック ボストン ぼすとん Boston
   stream: http://audio.wgbh.org:8108
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbk
   name: WCRB Kids Classical Channel
-  keywords: classic くらしっく クラシック ポストン ぽすとん Boston
+  keywords: classic くらしっく クラシック ボストン ぼすとん Boston
   stream: http://audio.wgbh.org:8110
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: croddur
   name: Český rozhlas D-dur （チェコ放送 ニ長調） 
-  keywords: classic くらしっく クラシック
+  keywords: classic, くらしっく, クラシック
   stream: http://icecast5.play.cz/croddur-128.mp3
   website: http://www.rozhlas.cz/d-dur/portal/
   codec: mp3
