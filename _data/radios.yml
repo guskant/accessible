@@ -1,11 +1,11 @@
-- radio: abcc
+- id: abcc
   name: Australia ABC Classic
   keywords: classic くらしっく クラシック
   stream: http://live-radio01.mediahubaustralia.com/2FMW/mp3/
   website: http://www.abc.net.au/classic/
   codec: mp3
 
-- radio: abcj
+- id: abcj
   name: Australia ABC Jazz
   keywords: jazz じゃず ジャズ
   stream: http://live-radio01.mediahubaustralia.com/JAZW/mp3/

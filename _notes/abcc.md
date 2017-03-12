@@ -3,9 +3,8 @@ layout: muse
 radio: abcc
 title: Australia ABC Classic
 ---
-{% assign radio_data = site.data.radios | where:"radio", page.radio %}
+{% assign radio_data = site.data.radios | where:"id", page.radio %}
 {% assign radio = radio_data | first %}  
-## [{{ radio.name }}]({{ radio.website }})
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
