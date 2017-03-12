@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="ja">
+{% assign radio_data = site.data.radios | where:"id", page.radio %}
+{% assign radio = radio_data | first %}  
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-<title>{{ page.title }}</title>
+<title>{{ radio.name }}</title>
  </head>
   <body>
     <div class="content">
-{% assign radio_data = site.data.radios | where:"id", page.radio %}
-{% assign radio = radio_data | first %}  
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
