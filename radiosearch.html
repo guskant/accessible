@@ -5,12 +5,21 @@ layout: search
 <ul id="search-results"></ul>
 <script>
         /* init lunr */
-        var window = lunr(function () {
+        var idx = lunr(function () {
             // use the language (ja)
             this.use(lunr.jp);
             // then, the normal lunr index initialization
             this.field('title', { boost: 10 })
             this.field('content')
+        });
+        /* add documents to index */
+        idx.add({
+    {% for radio in site.data.radios %}
+            "title": "{{ radio.name | xml_escape }}",
+        "content": {{ radio.keywords | strip_html | strip_newlines | jsonify }},
+            "id": {{ radio.id }}
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
         });
 </script>
 <script>
