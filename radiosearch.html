@@ -3,7 +3,16 @@ layout: search
 ---
 
 <ul id="search-results"></ul>
-
+<script>
+        /* init lunr */
+        var idx = lunr(function () {
+            // use the language (ja)
+            this.use(lunr.jp);
+            // then, the normal lunr index initialization
+            this.field('title', { boost: 10 })
+            this.field('content')
+        });
+</script>
 <script>
   window.store = {
     {% for radio in site.data.radios %}
@@ -29,13 +38,4 @@ layout: search
 <script src="/accessible/js/lunr.jp.js" charset="UTF-8"></script>
 <script src="/accessible/js/lunr.multi.min.js" charset="UTF-8"></script>
 <script src="/accessible/js/radiosearch.js" charset="UTF-8"></script>
-<script>
-        /* init lunr */
-        var idx = lunr(function () {
-            // use the language (ja)
-            this.use(lunr.jp);
-            // then, the normal lunr index initialization
-            this.field('title', { boost: 10 })
-            this.field('content')
-        });
-</script>
+
