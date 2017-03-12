@@ -15,7 +15,7 @@
 - id: wcrb
   name: WCRB Classical Radio Boston
   keywords: classic くらしっく クラシック
-  stream: http://audio.wgbh.org:8004
+  stream: http://audio.wgbh.org:8004;
   website: http://classicalwcrb.org/
   codec: mp3
 
