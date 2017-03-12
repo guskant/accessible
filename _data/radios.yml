@@ -14,7 +14,7 @@
 
 - id: wcrb
   name: WCRB Classical Radio Boston
-  keywords: classic くらしっく クラシック error
+  keywords: classic くらしっく クラシック
   stream: http://audio.wgbh.org:8006
   website: http://classicalwcrb.org/
   codec: mp3
