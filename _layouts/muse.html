@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="ja">
-{% assign radio = site.data.radios[page.radio] %}
-  {% for item in radio.items %} 
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-<title>{{ item.name }}</title>
+<title>{{ page.title }}</title>
  </head>
   <body>
     <div class="content">
+{% assign radio = site.data.radios[page.radio] %}
+  {% for item in radio.items %} 
     <h2><a href="{{ item.website }}">{{ item.name }}</a></h2>
       <div>
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
@@ -34,6 +34,7 @@ MRP.insert({
       <div>
       <a href="javascript:history.back();">ラジオを切って戻る</a>
       </div>
+  {% endfor %} 
     </div>
     <footer>
       <div class="container">
@@ -41,5 +42,4 @@ MRP.insert({
       </div>
     </footer>
   </body>
-  {% endfor %} 
 </html>
