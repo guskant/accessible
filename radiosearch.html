@@ -10,13 +10,13 @@ layout: search
             this.use(lunr.jp);
             // then, the normal lunr index initialization
             this.field('title', { boost: 10 })
-            this.field('content')
+            this.field('body')
         });
         /* add documents to index */
         idx.add({
     {% for radio in site.data.radios %}
             "title": "{{ radio.name | xml_escape }}",
-        "content": {{ radio.keywords | strip_html | strip_newlines | jsonify }},
+        "body": {{ radio.keywords | strip_html | strip_newlines | jsonify }},
             "id": {{ radio.id }}
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
