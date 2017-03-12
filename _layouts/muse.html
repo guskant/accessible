@@ -9,6 +9,12 @@
  </head>
   <body>
     <div class="content">
+      <div>
+      <a href="javascript:history.back();">ラジオを切って戻る</a>
+      </div>
+      <div>
+      <a href="{{ radio.website }}">{{ radio.name }}</a>
+      </div>
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
@@ -23,17 +29,11 @@ MRP.insert({
 'title':'{{ radio.name }}',
 'wmode':'transparent',
 'skin':'radiovoz',
-'width':0,
-'height':0
+'width':220,
+'height':69
 });
 </script>
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
-      <div>
-      <a href="javascript:history.back();">ラジオを切って戻る</a>
-      </div>
-      <div>
-      <a href="{{ radio.website }}">{{ radio.name }} のウェブサイト</a>
-      </div>
     </div>
     <footer>
       <div class="container">
