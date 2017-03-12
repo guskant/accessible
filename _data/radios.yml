@@ -1,4 +1,4 @@
-- name: abcc
+- radio: abcc
   items:
     - name: Australia ABC Classic
       keywords: classic くらしっく クラシック
@@ -6,7 +6,7 @@
       website: http://www.abc.net.au/classic/
       codec: mp3
 
-- name: abcj
+- radio: abcj
   items:
     - name: Australia ABC Jazz
       keywords: jazz じゃず ジャズ
