@@ -3,6 +3,9 @@ collections:
   notes:
     output: true
     permalink: :title.html
+  radios:
+    output: true
+    permalink: :title.html
 defaults:
   - scope:
       path: ""
