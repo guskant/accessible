@@ -5,7 +5,7 @@ layout: search
 <ul id="search-results"></ul>
 <script>
         /* init lunr */
-        var idx = lunr(function () {
+        var window = lunr(function () {
             // use the language (ja)
             this.use(lunr.jp);
             // then, the normal lunr index initialization
