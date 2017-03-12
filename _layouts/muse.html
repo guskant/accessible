@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ja">
+{% assign radio = site.data.radios[page.radio] %}
+  {% for item in radio.items %} 
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<title>{{ item.name }}</title>
+ </head>
+  <body>
+    <div class="content">
+    <h2><a href="{{ item.website }}">{{ item.name }}</a></h2>
+      <div>
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'{{ item.stream }};',
+'codec':'{{ item.codec }}',
+'volume':100,
+'autoplay':true,
+'forceHTML5':true,
+'jsevents':true,
+'buffering':0,
+'title':'{{ item.name }}',
+'wmode':'transparent',
+'skin':'original',
+'width':329,
+'height':21
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+      </div>
+      <div>
+      <a href="javascript:history.back();">ラジオを切って戻る</a>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        {{ site.time }}
+      </div>
+    </footer>
+  </body>
+  {% endfor %} 
+</html>
