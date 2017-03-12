@@ -1,9 +1,9 @@
 ---
 layout: search
 ---
-<form action="/search.html" method="get">
+<form action="/accessible/radiosearch.html" method="get">
   <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
+  <input type="text" id="search-box" name="query" placeholder="Search">
   <input type="submit" value="search">
 </form>
 
@@ -17,7 +17,7 @@ layout: search
         "author": "",
         "category": "",
         "content": {{ radio.keywords | strip_html | strip_newlines | jsonify }},
-        "url": "{{ radio.id }}.html"
+        "url": "/accessible/{{ radio.id }}.html"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
