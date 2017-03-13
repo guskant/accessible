@@ -3,8 +3,19 @@ layout: post
 title: インターネット・ラジオ局
 ---
 ## ラジオ局を選ぶ
-<form action="/accessible/radiosearch.html" method="get">
-  <input type="text" id="search-box" size="50" name="query" placeholder="検索語句を入力して Enter キーを押してください">
-</form>
+<div>
+<script>
+  (function() {
+    var cx = '005075177271513819053:_c7zpfucxak';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
 {% for radio in site.data.radios %}
 - [{{ radio.name }}](/accessible/radio/{{ radio.id }}.html) {% endfor %}
