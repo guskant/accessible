@@ -10,7 +10,7 @@ layout: search
         "title": "{{ radio.name | xml_escape }}",
         "author": "",
         "category": "",
-        "content": {{ radio.keywords | strip_html | strip_newlines | jsonify }},
+        "content": "{{ radio.keywords | strip_html | strip_newlines | jsonify }}",
         "url": "/accessible/radio/{{ radio.id }}.html"
       }
       {% unless forloop.last %},{% endunless %}
