@@ -14,8 +14,7 @@ title: インターネット・ラジオ局
 </form>
 <p />
 
-<details><summary>
-### ラジオ局のリスト</summary>
+<details><summary>ラジオ局のリスト</summary>
 {% for radio in site.data.radios %}
 - [{{ radio.name }}](/accessible/radio/{{ radio.id }}.html) {% endfor %}
 </details>
