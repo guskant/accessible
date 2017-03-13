@@ -5,7 +5,7 @@ collections:
     permalink: :title.html
   radios:
     output: true
-    permalink: :title.html
+    permalink: /radio/:title.html
 defaults:
   - scope:
       path: ""
