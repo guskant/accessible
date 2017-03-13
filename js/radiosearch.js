@@ -3,7 +3,7 @@
     var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
-      var appendString = '<h3>' + results.length + '件見つかりました。</h3><ul>';
+      var appendString = '<ul>';
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
