@@ -1,8 +1,8 @@
 - id: abcc
   name: Australia ABC Classic
   keywords: classic
-  keywords: kurasikku
-  keywords: o-sutoraria
+            kurasikku
+            o-sutoraria
   stream: http://live-radio01.mediahubaustralia.com/2FMW/mp3/;
   website: http://www.abc.net.au/classic/
   codec: mp3
