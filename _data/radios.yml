@@ -10,7 +10,12 @@
 
 - id: abcj
   name: Australia ABC Jazz
-  keywords: jazz じゃず ジャズ オーストラリア おーすとらりあ
+  keywords: 
+        - jazz
+        - じゃず
+        - ジャズ
+        - オーストラリア
+        - おーすとらりあ
   stream: http://live-radio01.mediahubaustralia.com/JAZW/mp3/;
   website: http://abcjazz.net.au/
   codec: mp3
