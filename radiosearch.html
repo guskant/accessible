@@ -1,5 +1,6 @@
 ---
 layout: search
+title: 検索結果
 ---
 
 <ul id="search-results"></ul>
@@ -18,8 +19,16 @@ layout: search
   };
 </script>
 
+<h3>ラジオ局の簡単検索</h3>
+<ul>
+<li><a href="https://guskant.github.io/accessible/radiosearch.html?query=jazz">ジャズ</a></li>
+<li><a href="https://guskant.github.io/accessible/radiosearch.html?query=classic">クラシック</a></li>
+<li><a href="https://guskant.github.io/accessible/radiosearch.html?query=japan">日本語の放送局</a></li>
+</ul>
+
+<h3>他のキーワードで検索</h3>
 <form action="/accessible/radiosearch.html" method="get">
-  <input type="text" id="search-box" size="50" name="query" placeholder="検索キーワードを半角英数字で入力して Enter キーを押してください">
+  <input type="text" id="search-box" size="60" name="query" placeholder="検索キーワードを半角英数字で入力して Enter キーを押してください">
 </form>
 
 <script src="/accessible/js/lunr.min.js"></script>
