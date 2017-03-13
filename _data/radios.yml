@@ -1,19 +1,19 @@
 - id: abcc
   name: Australia ABC Classic
-  keywords: classic
-            kurasikku
-            o-sutoraria
+  - keywords: classic
+  - keywords: kurasikku
+  - keywords: o-sutoraria
   stream: http://live-radio01.mediahubaustralia.com/2FMW/mp3/;
   website: http://www.abc.net.au/classic/
   codec: mp3
 
 - id: abcj
   name: Australia ABC Jazz
-  keywords: jazz
-            じゃず
-            ジャズ
-            オーストラリア
-            おーすとらりあ
+  - keywords: jazz
+  - keywords: じゃず
+  - keywords: ジャズ
+  - keywords: オーストラリア
+  - keywords: おーすとらりあ
   stream: http://live-radio01.mediahubaustralia.com/JAZW/mp3/;
   website: http://abcjazz.net.au/
   codec: mp3
