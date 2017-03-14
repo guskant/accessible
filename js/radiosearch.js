@@ -3,16 +3,14 @@
     var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
-      var appendString = '<ul>';
+      var appendString = '';
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<li><a href="' + item.url + '">' + item.title + '</a></li>';
       }
 
-      var appendString = '</ul>';
-
-      searchResults.innerHTML = appendString;
+      searchResults.innerHTML = '<h3>' + results.length + '件見つかりました。</h3><ul>' + appendString + '</ul>';
     } else {
       searchResults.innerHTML = '<p>見つかりませんでした。</p>';
     }
