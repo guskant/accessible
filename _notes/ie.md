@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Internet Explorer の使い方
+title: Internet Explorer と PC-Talker のショートカット・キー
 ---
-# Internet Explorer の使い方
-[PC-Talker](http://www.aok-net.com/screenreader/) が入っている Windows7 での Internet Explorer の使い方。
+# ページの読み上げには、Ctrl + Alt + A を押します。
+
 - Ctrl + Home	:そのページの最初の部分を読み上げる。
 - Ctrl + End	:そのページの最後の部分を読み上げる。
 - Ctrl + Alt + A	:そのページを全部読み上げる。

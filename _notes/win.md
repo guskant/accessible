@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Windows7 の使い方
+title: Windows7 と PC-Talker のショートカット・キー
 ---
-## [PC-Talker](http://www.aok-net.com/screenreader/) が入っている Windows7 の使い方
+## ページの読み上げには、 ChromeVox なら Shift + Alt + R を押します。 PC-Talker なら Ctrl + Alt + A を押します。
+
 - Windowsキー、次に、下向き矢印を何回か押してアプリケーションを選択、次に、 Enter	:アプリケーションを開く。
 - Alt + F4	:ウィンドウを閉じる。
 - Alt + Tab	:今開いているウィンドウの後ろにある、別のアプリケーションのウィンドウに移動。
