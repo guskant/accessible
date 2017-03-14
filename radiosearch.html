@@ -18,5 +18,11 @@ title: 検索結果
     {% endfor %}
   };
 </script>
+
+<h3>他のキーワードで検索</h3>
+<form action="/accessible/radiosearch.html" method="get">
+  <input type="text" id="search-box" size="60" name="query" placeholder="検索キーワードを半角英数字で入力して Enter キーを押してください">
+</form>
+
 <script src="/accessible/js/lunr.min.js"></script>
 <script src="/accessible/js/radiosearch.js" charset="UTF-8"></script>
