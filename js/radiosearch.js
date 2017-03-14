@@ -10,7 +10,7 @@
         appendString += '<li><a href="' + item.url + '">' + item.title + '</a></li>';
       }
 
-      searchResults.innerHTML = '<h3>' + results.length + '件見つかりました。</h3><ul>' + appendString + '</ul>';
+      searchResults.innerHTML = '<p>' + results.length + '件見つかりました。</p><ul>' + appendString + '</ul>';
     } else {
       searchResults.innerHTML = '<p>見つかりませんでした。</p>';
     }
