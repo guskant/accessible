@@ -2,8 +2,8 @@
 layout: post
 title: インターネット・ラジオ局
 ---
-## ラジオ局を選ぶ
 ### 簡単検索
+以下のリストから検索キーワードを選んでください。
 - [ジャズ](https://guskant.github.io/accessible/radiosearch.html?query=jazz)
 - [クラシック](https://guskant.github.io/accessible/radiosearch.html?query=classic)
 - [日本語のラジオ局](https://guskant.github.io/accessible/radiosearch.html?query=japan)

@@ -1,6 +1,26 @@
----
-layout: post
----
-<div class="search">
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>{{ page.title }}</title>
+ </head>
+  <body>
+    <div class="content">
+	<div class="search">
 	{{ content }}
-</div>
+	</div>
+      <div>
+      <a href="javascript:history.back();">前のページに戻る</a>
+      </div>
+      <div>
+      <a href="/accessible/radio.html">簡単検索のリストに戻る</a>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        {{ site.time }}
+      </div>
+    </footer>
+  </body>
+</html>
