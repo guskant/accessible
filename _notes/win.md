@@ -11,6 +11,6 @@ title: Windows7 と PC-Talker のショートカット・キー
 - Windowsキー、次に、右矢印 2回、次に L	:ログオフして、ユーザを選択する画面に行く。
 - Ctrl + Alt + F6	:点字入力システム (KTOS) 起動
 - Shift + Ctrl + Alt + F7	:点字入力システム (KTOS) 終了
-- Shift + 変換	:点字キーとフルキーの切り替え
+- Shift + 変換	:六点キーボードとフル・キーボードの切り替え
 
 参考にしたページ	:[PC-Talkerのショートカットキー](http://www6.plala.or.jp/kakehasi/reader/pc-talker/pc-talker-key-hyo.html)
