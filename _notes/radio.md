@@ -10,6 +10,6 @@ title: インターネット・ラジオ局
 
 ### 他のキーワードで検索
 <form action="/accessible/radiosearch.html" method="get">
-  <input type="text" id="search-box" size="70" name="query" placeholder="検索キーワードを半角英数字で入力。複数のキーワードの間はスペースで区切る。">
+  <input type="text" id="search-box" size="75" name="query" placeholder="検索キーワードを半角英数字で入力。複数のキーワードの間はスペースで区切る。">
 </form>
 
