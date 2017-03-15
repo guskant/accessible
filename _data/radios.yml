@@ -75,11 +75,11 @@
   website: http://www.tsfjazz.com/
   codec: mp3
 
-- id: rsf
-  name: RSF - Radio Schlagerfreunde 
-  keywords: pop folk deutsch doitugo doitsugo
-  stream: http://51.255.104.137:8091
-  website: http://www.radio-schlager-freunde.de/
+- id: starberlin
+  name: STAR FM Berlin 87.9 Maximum Rock!
+  keywords: rock deutsch doitugo doitsugo
+  stream: http://85.25.43.55:8100/
+  website: https://berlin.starfm.de/
   codec: mp3
 
 - id: nhkfm
