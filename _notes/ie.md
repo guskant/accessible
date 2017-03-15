@@ -2,17 +2,20 @@
 layout: post
 title: Internet Explorer と PC-Talker のショートカット・キー
 ---
-# ページの読み上げには、Ctrl + Alt + A を押します。
+# Internet Explorer と PC-Talker で、ページを全部読み上げるには、 Ctrl と Alt と F10 を同時に押します。
 
-- Ctrl + Home	:そのページの最初の部分を読み上げる。
-- Ctrl + End	:そのページの最後の部分を読み上げる。
-- Ctrl + Alt + A	:そのページを全部読み上げる。
-- Shift	:読み上げ停止と読み上げ再開を切り替える。
-- Ctrl + シタ矢印	:今停止している箇所の次の文字列を読み上げる。
-- Ctrl + ウエ矢印	:今停止している箇所の前の文字列を読み上げる。
-- Tab	:次のリンクに飛んで読み上げる。
-- Shift + Tab	:前のリンクに戻って読み上げる。
-- H	:次の見出しに飛んで読み上げる。
-- Shift + H	:前の見出しに戻って読み上げる。
+- いま開いているページの冒頭に飛ぶには、 Ctrl と Home キーを同時に押します。  
+逆に、ページの末尾に飛ぶには、 Ctrl と End キーを同時に押します。
+- 読み上げの停止と再開を切り替えるには、 Ctrl と Alt と F2 を同時に押します。
+- いま読み上げた箇所の直前の箇所に戻るには、 Ctrl とウエ矢印を同時に押します。  
+逆に、直後の箇所を読み上げるには、 Ctrl とシタ矢印を同時に押します。
+- 次のリンクに飛ぶには、Tab キーを押します。  
+ぎゃく向きに飛ぶには、 Shift と Tab を同時に押します。
+- 次の見出しに飛ぶには、 H を押します。  
+逆に、前の見出しに飛ぶには、 Shift と H を同時に押します。  
+H の位置は、フル・キーボードの右ポッチの左隣です。
 
-参考にしたページ	:[PC-TalkerのＩＥ読み上げキー](http://www6.plala.or.jp/kakehasi/internet/ie/ie-key-yomi.html)
+## 参考にしたページ
+
+- [PC-Talker操作マニュアル（pdfファイル）](http://pctalker.net/download/pdf/pctalker8273_manual.pdf)
+- [PC-TalkerのＩＥ読み上げキー](http://www6.plala.or.jp/kakehasi/internet/ie/ie-key-yomi.html)

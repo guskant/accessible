@@ -2,15 +2,41 @@
 layout: post
 title: Windows7 と PC-Talker のショートカット・キー
 ---
-## ページの読み上げには、 ChromeVox なら Shift + Alt + R を押します。 PC-Talker なら Ctrl + Alt + A を押します。
+## よく使うショートカット・キー
 
-- Windowsキー、次に、下向き矢印を何回か押してアプリケーションを選択、次に、 Enter	:アプリケーションを開く。
-- Alt + F4	:ウィンドウを閉じる。
-- Alt + Tab	:今開いているウィンドウの後ろにある、別のアプリケーションのウィンドウに移動。
-- Windowsキー、次に、右矢印、次に Enter	:Windowsをシャットダウンする。
-- Windowsキー、次に、右矢印 2回、次に L	:ログオフして、ユーザを選択する画面に行く。
-- Ctrl + Alt + F6	:点字入力システム (KTOS) 起動
-- Shift + Ctrl + Alt + F7	:点字入力システム (KTOS) 終了
-- Shift + 変換	:六点キーボードとフル・キーボードの切り替え
+- KTOS の六点キーボードとフル・キーボードの切り替えには、  
+Shift と変換キーを同時に押します。
+- スタートメニューに登録してあるアプリケーションを開くには、  
+Windows キーを押してから、シタ矢印を何回か押してアプリケーションを選択し、 Enter を押します。
+- いま表示しているウィンドウを閉じるには、  
+Alt と F4 を同時に押します。
+- いま開いているウィンドウの後ろにある、別のアプリケーションのウィンドウを表示するには、  
+Alt と Tab を同時に押します。  
+後ろに何もウィンドウが開いていない場合は、この操作をしても何も起こりません。
+- Windows をシャットダウンするには、  
+Windows キーを押して、次に右矢印を押し、最後に Enter を押します。
+- Windows からログオフして、ユーザを選択する画面に行くには、  
+Windows キーを押してから、右矢印を2回押し、次に L を押します。  
+L の位置は、フル・キーボードで、右ポッチの右にふたつめです。
 
-参考にしたページ	:[PC-Talkerのショートカットキー](http://www6.plala.or.jp/kakehasi/reader/pc-talker/pc-talker-key-hyo.html)
+## 何か問題があったときに使うかもしれないショートカット・キー
+
+- PC-Talker を起動するには、  
+Ctrl と Shift と F3 を同時に押します。
+- PC-Talker を終了するには、  
+Ctrl と Alt と F3 を同時に押します。
+- 点字入力システム (KTOS) を起動するには、  
+Ctrl と Alt と Shift と F6 を同時に押します。
+- 点字入力システム (KTOS) を終了するには、  
+Ctrl と Alt と Shift と F7 を同時に押します。
+- AOK メニューを起動するには、
+F12 を押します。
+
+## 参考にしたページ
+
+- [PC-Talker操作マニュアル（pdfファイル）](http://pctalker.net/download/pdf/pctalker8273_manual.pdf)
+- [はじめてのKTOS（pdfファイル）](https://www.littlesnow.jp/down_load/hajimeteno_ktos.pdf)
+- [PC-Talkerのショートカットキー](http://www6.plala.or.jp/kakehasi/reader/pc-talker/pc-talker-key-hyo.html)
+
+この最後のリンク先に書かれた内容には、いくつか間違いがあります（KTOSの起動と、六点とフルの切り替えについて）。上の2つのリンク先の情報で確認しました。
+
