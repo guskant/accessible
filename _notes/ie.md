@@ -2,7 +2,7 @@
 layout: post
 title: Internet Explorer と PC-Talker のショートカット・キー
 ---
-# Internet Explorer と PC-Talker で、ページを全部読み上げるには、 Ctrl と Alt と F10 を同時に押します。
+# Internet Explorer と PC-Talker で、ページ全体を読み上げるには、 Ctrl と Alt と F10 を同時に押します。
 
 - いま開いているページの冒頭に飛ぶには、 Ctrl と Home キーを同時に押します。  
 逆に、ページの末尾に飛ぶには、 Ctrl と End キーを同時に押します。
