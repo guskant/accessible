@@ -82,6 +82,13 @@
   website: http://www.francemusique.fr/
   codec: mp3
 
+- id: drc
+  name: DeutschlandRadio Kultur
+  keywords: culture deutsch doitugo doitsugo
+  stream: http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m
+  website: http://www.dradio.de/dkultur/
+  codec: mp3
+
 - id: nhkfm
   name: NHK FM 東京版 （NHKのらじる★らじるのページに飛びます）
   keywords: nihongo nippongo japanese tokyo toukyou
