@@ -75,13 +75,6 @@
   website: http://www.tsfjazz.com/
   codec: mp3
 
-- id: tsftest
-  name: TSF Paris 
-  keywords: jazz jazu zyazu paris francais france fransugo
-  stream: http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
-  website: http://www.tsfjazz.com/
-  codec: mp3
-
 - id: rsf
   name: RSF - Radio Schlagerfreunde 
   keywords: pop folk deutsch doitugo doitsugo
@@ -89,10 +82,112 @@
   website: http://www.radio-schlager-freunde.de/
   codec: mp3
 
-- id: starberlin
+- id: starbl
   name: STAR FM Berlin 87.9 Maximum Rock!
   keywords: rock deutsch doitugo doitsugo
   stream: http://85.25.43.55:8100/
   website: https://berlin.starfm.de/
+  codec: mp3
+
+- id: nhkfm
+  name: NHK FM 東京版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese tokyo toukyou
+  website: http://www3.nhk.or.jp/netradio/k/fm_tokyo.html
+  codec: mp3
+
+- id: nhkfmsp
+  name: NHK FM 札幌版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou
+  website: http://www3.nhk.or.jp/netradio/k/fm_sapporo.html
+  codec: mp3
+
+- id: nhkfmsd
+  name: NHK FM 仙台版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese sendai miyagi
+  website: http://www3.nhk.or.jp/netradio/k/fm_sendai.html
+  codec: mp3
+
+- id: nhkfmng
+  name: NHK FM 名古屋版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese nagoya aichi aiti
+  website: http://www3.nhk.or.jp/netradio/k/fm_nagoya.html
+  codec: mp3
+
+- id: nhkfmos
+  name: NHK FM 大阪版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese osaka oosaka
+  website: http://www3.nhk.or.jp/netradio/k/fm_osaka.html
+  codec: mp3
+
+- id: nhkfmhs
+  name: NHK FM 広島版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese hiroshima hirosima
+  website: http://www3.nhk.or.jp/netradio/k/fm_hiroshima.html
+  codec: mp3
+
+- id: nhkfmmy
+  name: NHK FM 松山版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese matsuyama matuyama ehime
+  website: http://www3.nhk.or.jp/netradio/k/fm_matsuyama.html
+  codec: mp3
+
+- id: nhkfmfo
+  name: NHK FM 福岡版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese fukuoka hukuoka
+  website: http://www3.nhk.or.jp/netradio/k/fm_fukuoka.html
+  codec: mp3
+
+- id: nhkr2
+  name: NHK ラジオ第2 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese
+  website: http://www3.nhk.or.jp/netradio/k/r2.html
+  codec: mp3
+
+- id: nhkr1
+  name: NHK ラジオ第1 東京版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese tokyo toukyou
+  website: http://www3.nhk.or.jp/netradio/k/r1_tokyo.html
+  codec: mp3
+
+- id: nhkr1sp
+  name: NHK ラジオ第1 札幌版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou
+  website: http://www3.nhk.or.jp/netradio/k/r1_sapporo.html
+  codec: mp3
+
+- id: nhkr1sd
+  name: NHK ラジオ第1 仙台版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese sendai miyagi
+  website: http://www3.nhk.or.jp/netradio/k/r1_sendai.html
+  codec: mp3
+
+- id: nhkr1ng
+  name: NHK ラジオ第1 名古屋版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese nagoya aichi aiti
+  website: http://www3.nhk.or.jp/netradio/k/r1_nagoya.html
+  codec: mp3
+
+- id: nhkr1os
+  name: NHK ラジオ第1 大阪版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese osaka oosaka
+  website: http://www3.nhk.or.jp/netradio/k/r1_osaka.html
+  codec: mp3
+
+- id: nhkr1hs
+  name: NHK ラジオ第1 広島版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese hiroshima hirosima
+  website: http://www3.nhk.or.jp/netradio/k/r1_hiroshima.html
+  codec: mp3
+
+- id: nhkr1my
+  name: NHK ラジオ第1 松山版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese matsuyama matuyama ehime
+  website: http://www3.nhk.or.jp/netradio/k/r1_matsuyama.html
+  codec: mp3
+
+- id: nhkr1fo
+  name: NHK ラジオ第1 福岡版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese fukuoka hukuoka
+  website: http://www3.nhk.or.jp/netradio/k/r1_fukuoka.html
   codec: mp3
 

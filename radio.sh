@@ -8,4 +8,4 @@ while [ $L -le $ALL ]; do
 #  L=`expr $L + 1`
   L=$(( $L + 1 ))
 done
-rm temp
+rm temp ./_radios/nhk*
