@@ -123,3 +123,57 @@
   website: http://www3.nhk.or.jp/netradio/k/fm_fukuoka.html
   codec: mp3
 
+- id: nhkr2
+  name: NHK ラジオ第2 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese
+  website: http://www3.nhk.or.jp/netradio/k/r2.html
+  codec: mp3
+
+- id: nhkr1
+  name: NHK ラジオ第1 東京版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese tokyo toukyou
+  website: http://www3.nhk.or.jp/netradio/k/r1_tokyo.html
+  codec: mp3
+
+- id: nhkr1sp
+  name: NHK ラジオ第1 札幌版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou
+  website: http://www3.nhk.or.jp/netradio/k/r1_sapporo.html
+  codec: mp3
+
+- id: nhkr1sd
+  name: NHK ラジオ第1 仙台版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese sendai miyagi
+  website: http://www3.nhk.or.jp/netradio/k/r1_sendai.html
+  codec: mp3
+
+- id: nhkr1ng
+  name: NHK ラジオ第1 名古屋版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese nagoya aichi aiti
+  website: http://www3.nhk.or.jp/netradio/k/r1_nagoya.html
+  codec: mp3
+
+- id: nhkr1os
+  name: NHK ラジオ第1 大阪版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese osaka oosaka
+  website: http://www3.nhk.or.jp/netradio/k/r1_osaka.html
+  codec: mp3
+
+- id: nhkr1hs
+  name: NHK ラジオ第1 広島版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese hiroshima hirosima
+  website: http://www3.nhk.or.jp/netradio/k/r1_hiroshima.html
+  codec: mp3
+
+- id: nhkr1my
+  name: NHK ラジオ第1 松山版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese matsuyama matuyama ehime
+  website: http://www3.nhk.or.jp/netradio/k/r1_matsuyama.html
+  codec: mp3
+
+- id: nhkr1fo
+  name: NHK ラジオ第1 福岡版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese fukuoka hukuoka
+  website: http://www3.nhk.or.jp/netradio/k/r1_fukuoka.html
+  codec: mp3
+
