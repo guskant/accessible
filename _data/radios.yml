@@ -75,3 +75,9 @@
   website: http://www.tsfjazz.com/
   codec: mp3
 
+- id: nhkfm
+  name: NHK FM 東京版 （NHKのらじる★らじるのページに飛びます）
+  keywords: nihongo nippongo japanese
+  website: http://www3.nhk.or.jp/netradio/k/fm_tokyo.html
+  codec: mp3
+
