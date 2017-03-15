@@ -75,11 +75,11 @@
   website: http://www.tsfjazz.com/
   codec: mp3
 
-- id: ard
-  name: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland 
-  keywords: deutsch doitugo doitsugo
-  stream: mms://gffstream-wm-w18a.wm.llnwd.net/gffstream_wm_w18b
-  website: http://www.ard.de/
+- id: ouistiti
+  name: RADIO OUISTITI 
+  keywords: enfant kodomo francais france fransugo
+  stream: http://91.121.38.100:8090/
+  website: http://www.radioouistiti.com
   codec: mp3
 
 - id: nhkfm
