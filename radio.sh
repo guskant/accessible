@@ -1,4 +1,5 @@
 #!/bin/bash
+rm ./_radios/*
 grep "\- id:" ./_data/radios.yml | sed 's/- id://' > temp
 ALL=`cat temp | wc -l`
 L=1
