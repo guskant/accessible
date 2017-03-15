@@ -84,10 +84,19 @@
 
 - id: drc
   name: DeutschlandRadio Kultur
-  keywords: culture deutsch doitugo doitsugo
+  keywords: culture deutsch doitugo doitsugo berlin
   stream: http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m
   website: http://www.dradio.de/dkultur/
   codec: mp3
+
+- id: mdr
+  name: MDR KULTUR Livestream
+  keywords: deutsch doitugo doitsugo halle
+  stream: http://c22033-ls.i.core.cdn.streamfarm.net/HZSKMnDUg9922033/22033mdr/live/app2128740352/w2128904193/live_de_128.mp3
+  website: http://www.mdr-kultur.de/
+  codec: mp3
+
+# no stream below. add html manually.
 
 - id: nhkfm
   name: NHK FM 東京版 （NHKのらじる★らじるのページに飛びます）
