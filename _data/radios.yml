@@ -78,7 +78,7 @@
 - id: ouistiti
   name: RADIO OUISTITI 
   keywords: enfant kodomo francais france fransugo
-  stream: http://91.121.38.100:8090/
+  stream: http://91.121.38.100:8100/
   website: http://www.radioouistiti.com
   codec: mp3
 
