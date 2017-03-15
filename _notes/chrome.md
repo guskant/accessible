@@ -4,7 +4,7 @@ title: Windows での ChromeVox の操作方法
 ---
 # ページの操作には、フル・キーボードを使います。 六点キーボードをオフにした状態で、 Shift と Alt と R を同時に押すと読み上げ開始。 R の位置は、左ポッチのすぐ上です。
 
-以下に説明するのは、 Windows に [Google Chrome](https://www.google.com/chrome/browser/desktop/) と [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn) をインストールし、 ChromeVox のキーボード・ショートカットを「Classic Keymap」に設定した場合の操作方法です。
+以下に説明するのは、 Windows7 に [Google Chrome](https://www.google.com/chrome/browser/desktop/) と [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn) をインストールし、 ChromeVox のキーボード・ショートカットを「Classic Keymap」に設定した場合の操作方法です。
 
 読み上げを一時停止するには、 Ctrl キーを押します。 また Shift と Alt と R を同時に押すと読み上げを再開します。
 
