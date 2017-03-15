@@ -75,11 +75,11 @@
   website: http://www.tsfjazz.com/
   codec: mp3
 
-- id: starberlin
-  name: STAR FM Berlin 87.9 Maximum Rock!
-  keywords: rock deutsch doitugo doitsugo
-  stream: http://85.25.43.55:8100/
-  website: https://berlin.starfm.de/
+- id: tsftest
+  name: TSF Paris 
+  keywords: jazz jazu zyazu paris francais france fransugo
+  stream: http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
+  website: http://www.tsfjazz.com/
   codec: mp3
 
 - id: nhkfm
