@@ -75,11 +75,11 @@
   website: http://www.tsfjazz.com/
   codec: mp3
 
-- id: ouistiti
-  name: RADIO OUISTITI 
-  keywords: enfant kodomo francais france fransugo
-  stream: http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
-  website: http://www.radioouistiti.com
+- id: frm
+  name: France Musique
+  keywords: classic kurasikku jazz zyazu francais france fransugo
+  stream: http://direct.francemusique.fr/live/francemusique-midfi.mp3?ID=f9fbk29m84
+  website: http://www.francemusique.fr/
   codec: mp3
 
 - id: nhkfm
