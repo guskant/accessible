@@ -8,7 +8,7 @@ L=1
 while [ $L -le $ALL ]; do
   ID="`sed -n $L'p' dtlist`"
   if [ -z "`find ./_radios -name $ID.md`" ]; then
-  echo -e "---\\nlayout: muse\\nradio: $ID\\ndate: `date +%Y-%m-%dT%T%z`\\n---" > ./_radios/`echo $ID`.md
+  echo -e "---\\nlayout: muse\\nradio: $ID\\ndate: `date +%Y-%m-%dT%TZ`\\n---" > ./_radios/`echo $ID`.md
   fi
   L=$(( $L + 1 ))
 done
