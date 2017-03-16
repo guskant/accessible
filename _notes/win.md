@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows7 と PC-Talker のショートカット・キー
+date: 2017-03-16T08:37:05Z
 ---
 ## よく使うショートカット・キー
 

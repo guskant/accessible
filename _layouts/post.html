@@ -13,9 +13,7 @@
       </div>
     </div>
     <footer>
-      <div class="container">
-        サイトの更新日： {{ site.time | date: "%Y-%m-%d %T %Z" }}
-      </div>
+    	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
     </footer>
   </body>
 </html>
