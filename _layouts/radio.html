@@ -13,7 +13,8 @@
       </div>
     </div>
     <footer>
-    	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">ラジオ局データ更新日： {{ page.datadate | date: "%Y年%m月%d日" }}</time>
+    	<time datetime="{{ page.datadate | date_to_xmlschema }}">ラジオ局データ更新日： {{ page.datadate | date: "%Y年%m月%d日" }}</time>
+    	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate"></time>
     </footer>
   </body>
 </html>
