@@ -1,12 +1,29 @@
 #!/bin/bash
-rm ./_radios/*
-grep "\- id:" ./_data/radios.yml | sed 's/- id://' > temp
-ALL=`cat temp | wc -l`
+
+# add new md files
+grep "\- id:" ./_data/radios.yml | sed -e 's/- id://' -e '/nhk/d' > dtlist
+
+ALL=`cat dtlist | wc -l`
 L=1
 while [ $L -le $ALL ]; do
-  ID="`sed -n $L'p' temp`"
-  echo -e ---\\nlayout: muse\\nradio: $ID\\n--- > ./_radios/`echo $ID`.md
-#  L=`expr $L + 1`
+  ID="`sed -n $L'p' dtlist`"
+  if [ -z "`find ./_radios -name $ID.md`" ]; then
+  echo -e "---\\nlayout: muse\\nradio: $ID\\ndate: `date +%Y-%m-%dT%T%z`\\n---" > ./_radios/`echo $ID`.md
+  fi
   L=$(( $L + 1 ))
 done
-rm temp ./_radios/nhk*
+
+# rm outdated md files
+ls ./_radios | sed -e 's/.md *//g' > mdlist
+
+ALL=`cat mdlist | wc -l`
+L=1
+while [ $L -le $ALL ]; do
+  ID="`sed -n $L'p' mdlist`"
+  if [ -z "`grep $ID dtlist`" ]; then
+  	echo -e `echo $ID`.md >> radio_removed
+  	rm ./_radios/`echo $ID`.md
+  fi
+  L=$(( $L + 1 ))
+done
+

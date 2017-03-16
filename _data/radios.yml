@@ -96,8 +96,7 @@
   website: http://www.mdr-kultur.de/
   codec: mp3
 
-# no stream below. add html manually.
-
+# no md for the following
 - id: nhkfm
   name: NHK FM 東京版 （NHKのらじる★らじるのページに飛びます）
   keywords: nihongo nippongo japanese tokyo toukyou
