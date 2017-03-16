@@ -1,13 +1,17 @@
 ---
-layout: post
+layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-16T08:37:05Z
+date: 2017-03-16T10:33:19Z
+datadate: 2017-03-16T08:29:29Z
 ---
 ### 簡単検索
 以下のリストから検索キーワードを選んでください。
 - [ジャズ](https://guskant.github.io/accessible/radiosearch.html?query=jazz)
 - [クラシック](https://guskant.github.io/accessible/radiosearch.html?query=classic)
-- [日本語のラジオ局](https://guskant.github.io/accessible/radiosearch.html?query=japan)
+- [日本語](https://guskant.github.io/accessible/radiosearch.html?query=japan)
+- [ドイツ語](https://guskant.github.io/accessible/radiosearch.html?query=deutsch)
+- [フランス語](https://guskant.github.io/accessible/radiosearch.html?query=francais)
+- [英語](https://guskant.github.io/accessible/radiosearch.html?query=english)
 
 ### 他のキーワードで検索
 <form action="/accessible/radiosearch.html" method="get">

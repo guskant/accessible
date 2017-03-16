@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internet Explorer と PC-Talker のショートカット・キー
-date: 2017-03-16T08:37:05Z
+date: 2017-03-16T08:49:36Z
 ---
 # Internet Explorer と PC-Talker で、ページ全体を読み上げるには、 Ctrl と Alt と F10 を同時に押します。
 
