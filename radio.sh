@@ -27,3 +27,6 @@ while [ $L -le $ALL ]; do
   L=$(( $L + 1 ))
 done
 
+# rm temp files
+rm dtlist mdlist
+
