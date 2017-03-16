@@ -2,4 +2,4 @@
   {% for page in site.notes %}
 - [{{ page.title }}](/accessible{{ page.url }}) {% endfor %}
 
-{{ site.time }}
+{{ site.time | date: %Y-%m-%d %T%Z }}
