@@ -14,7 +14,7 @@
     </div>
     <footer>
       <div class="container">
-        サイトの更新日： {{ site.time }}
+        サイトの更新日： {{ site.time | date: "%Y-%m-%d %T %Z" }}
       </div>
     </footer>
   </body>
