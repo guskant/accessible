@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows7 と PC-Talker のショートカット・キー
-date: 2017-03-16T08:37:05Z
+date: 2017-03-16T08:57:55Z
 ---
 ## よく使うショートカット・キー
 
@@ -41,5 +41,4 @@ F12 を押します。
 - [はじめてのKTOS（pdfファイル）](https://www.littlesnow.jp/down_load/hajimeteno_ktos.pdf)
 - [PC-Talkerのショートカットキー](http://www6.plala.or.jp/kakehasi/reader/pc-talker/pc-talker-key-hyo.html)
 
-この最後のリンク先に書かれた内容には、いくつか間違いがあります（KTOSの起動と、六点とフルの切り替えについて）。上の2つのリンク先の情報で確認しました。
-
+この最後のリンク先に書かれた内容には、いくつか間違いがあります（KTOSの起動と、六点とフルの切り替えについて）。そのことは上の2つのリンク先の情報で確認しました。
