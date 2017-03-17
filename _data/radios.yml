@@ -96,10 +96,24 @@
   website: http://www.mdr-kultur.de/
   codec: mp3
 
+- id: chofu
+  name: 調布FM
+  keywords: nihongo nippongo japanese tokyo toukyou chofu tyoufu kantou
+  stream: http://hdv3.nkansai.tv/chofu
+  website: http://www.chofu-fm.com/
+  codec: mp3
+
+- id: chuo
+  name: 中央エフエム
+  keywords: nihongo nippongo japanese tokyo toukyou kantou chuo tyuuou
+  stream: mms://hdv.nkansai.tv/radiocity
+  website: http://fm840.jp/
+  codec: mp3
+
 # no md for the following
 - id: nhkfm
   name: NHK FM 東京版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese tokyo toukyou
+  keywords: nihongo nippongo japanese tokyo toukyou kantou
   website: http://www3.nhk.or.jp/netradio/k/fm_tokyo.html
   codec: mp3
 
@@ -153,7 +167,7 @@
 
 - id: nhkr1
   name: NHK ラジオ第1 東京版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese tokyo toukyou
+  keywords: nihongo nippongo japanese tokyo toukyou kantou
   website: http://www3.nhk.or.jp/netradio/k/r1_tokyo.html
   codec: mp3
 
