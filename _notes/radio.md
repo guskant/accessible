@@ -1,7 +1,7 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-16T10:33:19Z
+date: 2017-03-20T16:00:38Z
 datadate: 2017-03-20T15:58:29Z
 ---
 ### 簡単検索
@@ -21,7 +21,7 @@ datadate: 2017-03-20T15:58:29Z
 - [ヨーロッパ](https://guskant.github.io/accessible/radiosearch.html?query=europe)
 - [アフリカ](https://guskant.github.io/accessible/radiosearch.html?query=africa)
 - [北アメリカ](https://guskant.github.io/accessible/radiosearch.html?query=north+america)
-- [南アメリカ](https://guskant.github.io/accessible/radiosearch.html?query=south+america)
+- [南アメリカ](https://guskant.github.io/accessible/radiosearch.html?query=minami+america)
 
 #### 日本の地方
 - [北海道](https://guskant.github.io/accessible/radiosearch.html?query=hokkaido)
