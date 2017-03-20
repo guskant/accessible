@@ -1,7 +1,7 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-20T16:00:38Z
+date: 2017-03-20T16:04:36Z
 datadate: 2017-03-20T15:58:29Z
 ---
 ### 簡単検索
@@ -28,7 +28,7 @@ datadate: 2017-03-20T15:58:29Z
 - [東北](https://guskant.github.io/accessible/radiosearch.html?query=touhoku)
 - [関東](https://guskant.github.io/accessible/radiosearch.html?query=kantou)
 - [中部](https://guskant.github.io/accessible/radiosearch.html?query=tyuubu)
-- [関西](https://guskant.github.io/accessible/radiosearch.html?query=kansai)
+- [近畿](https://guskant.github.io/accessible/radiosearch.html?query=kinki)
 - [中国](https://guskant.github.io/accessible/radiosearch.html?query=nihon+tyuugoku)
 - [四国](https://guskant.github.io/accessible/radiosearch.html?query=sikoku)
 - [九州](https://guskant.github.io/accessible/radiosearch.html?query=kyuusyuu)
