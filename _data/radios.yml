@@ -245,7 +245,7 @@
 
 - id: yoruba
   name: Yoruba FM 西アフリカの音楽, ロンドン
-  keywords: folklore nigeria benin ghana togo ivory coast london africa afurika ahurika
+  keywords: folklore nigeria benin ghana togo ivory coast london africa afurika ahurika europe yo-roppa
   stream: http://206.190.136.141:1216/Live
   website: http://yorubafm.com
   codec: mp3
