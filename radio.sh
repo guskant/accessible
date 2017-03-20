@@ -1,11 +1,21 @@
 #!/bin/bash
 
-# add new md files
+# count radio stations
 grep "\- id:" ./_data/radios.yml | sed -e 's/- id://' -e '/nhk/d' > dtlist
 
-ALL=`cat dtlist | wc -l`
+DT=`cat dtlist | wc -l`
+OTHER=`ls ./radio | wc -l`
+ALL=`expr $DT + $OTHER`
+DATACOUNT="	登録ラジオ局数： ""`echo $ALL`""件"
+awk --assign awk_datacount="$DATACOUNT" '{
+		sub(/^.*登録ラジオ局数.*$/, awk_datacount); 
+		print $0
+	}' ./_layouts/radio.html > ./_layouts/radio.html-count
+	mv ./_layouts/radio.html-count ./_layouts/radio.html
+
+# add new md files
 L=1
-while [ $L -le $ALL ]; do
+while [ $L -le $DT ]; do
   ID="`sed -n $L'p' dtlist`"
   if [ -z "`find ./_radios -name $ID.md`" ]; then
   echo -e "---\\nlayout: muse\\nradio: $ID\\ndate: `date +%Y-%m-%dT%TZ`\\n---" > ./_radios/`echo $ID`.md
@@ -16,9 +26,9 @@ done
 # rm outdated md files
 ls ./_radios | sed -e 's/.md *//g' > mdlist
 
-ALL=`cat mdlist | wc -l`
+MD=`cat mdlist | wc -l`
 L=1
-while [ $L -le $ALL ]; do
+while [ $L -le $MD ]; do
   ID="`sed -n $L'p' mdlist`"
   if [ -z "`grep $ID dtlist`" ]; then
   	echo -e `echo $ID`.md >> radio_removed
