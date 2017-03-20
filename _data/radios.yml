@@ -49,7 +49,7 @@
 
 - id: croddur
   name: Český rozhlas D-dur （チェコ放送 ニ長調） 
-  keywords: classic kurasikku czech cheko tyeko
+  keywords: classic kurasikku czech cheko tyeko europe yo-roppa
   stream: http://icecast5.play.cz/croddur-128.mp3
   website: http://www.rozhlas.cz/d-dur/portal/
   codec: mp3
@@ -70,146 +70,209 @@
 
 - id: tsfj
   name: TSF Jazz Paris 
-  keywords: jazz jazu zyazu paris francais france fransugo
+  keywords: jazz jazu zyazu paris francais france fransugo europe yo-roppa
   stream: http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
   website: http://www.tsfjazz.com/
   codec: mp3
 
 - id: frm
   name: France Musique
-  keywords: classic kurasikku jazz zyazu francais france fransugo
+  keywords: classic kurasikku jazz zyazu francais france fransugo europe yo-roppa
   stream: http://direct.francemusique.fr/live/francemusique-midfi.mp3?ID=f9fbk29m84
   website: http://www.francemusique.fr/
   codec: mp3
 
 - id: drc
   name: DeutschlandRadio Kultur
-  keywords: culture deutsch doitugo doitsugo berlin
+  keywords: culture deutsch doitugo doitsugo berlin europe yo-roppa
   stream: http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m
   website: http://www.dradio.de/dkultur/
   codec: mp3
 
 - id: mdr
   name: MDR KULTUR Livestream
-  keywords: deutsch doitugo doitsugo halle
+  keywords: deutsch doitugo doitsugo halle europe yo-roppa
   stream: http://c22033-ls.i.core.cdn.streamfarm.net/HZSKMnDUg9922033/22033mdr/live/app2128740352/w2128904193/live_de_128.mp3
   website: http://www.mdr-kultur.de/
   codec: mp3
 
-- id: chofu
-  name: 調布FM
-  keywords: nihongo nippongo japanese tokyo toukyou chofu tyoufu kantou
-  stream: http://hdv3.nkansai.tv/chofu
-  website: http://www.chofu-fm.com/
+- id: j1
+  name: j1fm.tokyo 日本のヒット曲
+  keywords: nihongo nippongo japanese pop asia azia
+  stream: http://192.99.62.212:9774/stream
+  website: http://jp.j1fm.com/
   codec: mp3
 
-- id: chuo
-  name: 中央エフエム
-  keywords: nihongo nippongo japanese tokyo toukyou kantou chuo tyuuou
-  stream: mms://hdv.nkansai.tv/radiocity
-  website: http://fm840.jp/
+- id: j1ex
+  name: j1fm.tokyo Extra 日本のヒット曲 1990年代 2000年代
+  keywords: nihongo nippongo japanese pop asia azia
+  stream: http://149.56.23.7:20080/stream
+  website: http://jp.j1fm.com/
+  codec: mp3
+
+- id: asiadream
+  name: Asia DREAM Radio 日本のヒット曲
+  keywords: nihongo nippongo japanese pop asia azia
+  stream: http://192.99.62.212:9764/stream
+  website: http://www.jpoppowerplay.tokyo/stations/jp.html
+  codec: mp3
+
+- id: blueheron
+  name: Blue Heron 青鷺のラジオ 日本の伝統音楽
+  keywords: nihongo nippongo japanese minnyou minyou asia azia
+  stream: http://62.75.215.7:8016/;
+  website: http://blueheronradio.fm/
+  codec: mp3
+
+- id: kahoku
+  name: FMかほく 石川県
+  keywords: kahoku isikawa ishikawa chubu tyubu chuubu tyuubu nihongo nippongo japanese asia azia
+  stream: http://radio.kahoku.net:8000/;
+  website: http://fm.kahoku.net/
+  codec: mp3
+
+- id: dibi
+  name: DiBiRadio ロマニ音楽
+  keywords: romania ru-mania europe yo-roppa
+  stream: http://dibiradio.info:8000/
+  website: http://dibiradio.ro
+  codec: mp3
+
+- id: balkan
+  name: RadyoBalkan バルカン音楽
+  keywords: balkan ankara turkey toruko europe yo-roppa
+  stream: http://176.31.105.44:8050/
+  website: http://www.radyobalkan.com/
+  codec: mp3
+
+- id: uspomena
+  name: Radio Uspomena Berlin バルカン音楽
+  keywords: balkan deutsch doitu doitsu europe yo-roppa
+  stream: http://50.7.70.66:8587/;
+  website: http://www.radio-uspomena.de.tl
+  codec: mp3
+
+- id: celtic
+  name: Celtic Moon Live ケルト音楽
+  keywords: celtic keruto europe yo-roppa
+  stream: http://149.56.23.7:20188/stream
+  website: http://www.celticradio.net
+  codec: mp3
+
+- id: liveireland
+  name: Live Ireland Dublin
+  keywords: dublin daburin ireland airurando celtic keruto europe yo-roppa
+  stream: http://66.90.73.250:8000/;
+  website: http://liveireland.com/
+  codec: mp3
+
+- id: sg
+  name: Melody.FM Singapore Chinese music
+  keywords: chinese chuugokugo tyuugokugo singapo-ru asia azia
+  stream: http://50.7.96.210:8360/;
+  website: http://www.radiosingapore.org/melody-fm/
   codec: mp3
 
 # no md for the following
 - id: nhkfm
   name: NHK FM 東京版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese tokyo toukyou kantou
+  keywords: nihongo nippongo japanese tokyo toukyou kantou asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_tokyo.html
   codec: mp3
 
 - id: nhkfmsp
   name: NHK FM 札幌版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou
+  keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_sapporo.html
   codec: mp3
 
 - id: nhkfmsd
   name: NHK FM 仙台版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese sendai miyagi
+  keywords: nihongo nippongo japanese sendai miyagi touhoku tohoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_sendai.html
   codec: mp3
 
 - id: nhkfmng
   name: NHK FM 名古屋版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese nagoya aichi aiti
+  keywords: nihongo nippongo japanese nagoya aichi aiti chuubu tyuubu chubu tyubu asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_nagoya.html
   codec: mp3
 
 - id: nhkfmos
   name: NHK FM 大阪版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese osaka oosaka
+  keywords: nihongo nippongo japanese osaka oosaka kinki asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_osaka.html
   codec: mp3
 
 - id: nhkfmhs
   name: NHK FM 広島版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese hiroshima hirosima
+  keywords: nihongo nippongo japanese hiroshima hirosima tyuugoku chuugoku tyugoku chugoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_hiroshima.html
   codec: mp3
 
 - id: nhkfmmy
   name: NHK FM 松山版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese matsuyama matuyama ehime
+  keywords: nihongo nippongo japanese matsuyama matuyama ehime sikoku shikoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_matsuyama.html
   codec: mp3
 
 - id: nhkfmfo
   name: NHK FM 福岡版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese fukuoka hukuoka
+  keywords: nihongo nippongo japanese fukuoka hukuoka kyusyu kyushu kyuusyuu kyuushuu asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_fukuoka.html
   codec: mp3
 
 - id: nhkr2
   name: NHK ラジオ第2 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese
+  keywords: nihongo nippongo japanese asia azia
   website: http://www3.nhk.or.jp/netradio/k/r2.html
   codec: mp3
 
 - id: nhkr1
   name: NHK ラジオ第1 東京版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese tokyo toukyou kantou
+  keywords: nihongo nippongo japanese tokyo toukyou kantou asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_tokyo.html
   codec: mp3
 
 - id: nhkr1sp
   name: NHK ラジオ第1 札幌版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou
+  keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_sapporo.html
   codec: mp3
 
 - id: nhkr1sd
   name: NHK ラジオ第1 仙台版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese sendai miyagi
+  keywords: nihongo nippongo japanese sendai miyagi tohoku touhoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_sendai.html
   codec: mp3
 
 - id: nhkr1ng
   name: NHK ラジオ第1 名古屋版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese nagoya aichi aiti
+  keywords: nihongo nippongo japanese nagoya aichi aiti chubu tyubu chuubu tyuubu asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_nagoya.html
   codec: mp3
 
 - id: nhkr1os
   name: NHK ラジオ第1 大阪版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese osaka oosaka
+  keywords: nihongo nippongo japanese osaka oosaka kinki asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_osaka.html
   codec: mp3
 
 - id: nhkr1hs
   name: NHK ラジオ第1 広島版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese hiroshima hirosima
+  keywords: nihongo nippongo japanese hiroshima hirosima tyugoku chugoku tyuugoku chuugoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_hiroshima.html
   codec: mp3
 
 - id: nhkr1my
   name: NHK ラジオ第1 松山版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese matsuyama matuyama ehime
+  keywords: nihongo nippongo japanese matsuyama matuyama ehime sikoku shikoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_matsuyama.html
   codec: mp3
 
 - id: nhkr1fo
   name: NHK ラジオ第1 福岡版 （NHKのページに飛びます）
-  keywords: nihongo nippongo japanese fukuoka hukuoka
+  keywords: nihongo nippongo japanese fukuoka hukuoka kyusyu kyushu kyuusyuu kyuushuu asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_fukuoka.html
   codec: mp3
 
