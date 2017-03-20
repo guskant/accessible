@@ -1,69 +1,69 @@
 - id: abcc
   name: Australia ABC Classic
-  keywords: classic kurasikku australia o-sutoraria eigo english
+  keywords: classique classic kurasikku australia o-sutoraria eigo english oceania
   stream: http://live-radio01.mediahubaustralia.com/2FMW/mp3/;
   website: http://www.abc.net.au/classic/
   codec: mp3
 
 - id: abcj
   name: Australia ABC Jazz
-  keywords: jazz jazu zyazu australia o-sutoraria eigo english
+  keywords: jazz jazu zyazu australia o-sutoraria eigo english oceania
   stream: http://live-radio01.mediahubaustralia.com/JAZW/mp3/;
   website: http://abcjazz.net.au/
   codec: mp3
 
 - id: wcrb
   name: WCRB Classical Radio Boston
-  keywords: classic kurasikku boston bosuton english eigo usa
+  keywords: classique classic kurasikku boston bosuton english eigo usa kita amerika north america
   stream: http://audio.wgbh.org:8006
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbbso
   name: WCRB BSO Concert Channel
-  keywords: classic kurasikku boston bosuton english eigo usa
+  keywords: classique classic kurasikku boston bosuton english eigo usa kita amerika north america
   stream: http://audio.wgbh.org:8106
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbe
   name: WCRB Boston Early Music Channel
-  keywords: classic kurasikku boston bosuton english eigo usa
+  keywords: classique classic kurasikku boston bosuton english eigo usa kita amerika north america
   stream: http://audio.wgbh.org:8112
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbb
   name: WCRB Bach Channel
-  keywords: classic kurasikku boston bosuton english eigo usa
+  keywords: classique classic kurasikku boston bosuton english eigo usa kita amerika north america
   stream: http://audio.wgbh.org:8108
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: wcrbk
   name: WCRB Kids Classical Channel
-  keywords: classic kurasikku boston bosuton english eigo usa
+  keywords: classique classic kurasikku boston bosuton english eigo usa kita amerika north america
   stream: http://audio.wgbh.org:8110
   website: http://classicalwcrb.org/
   codec: mp3
 
 - id: croddur
   name: Český rozhlas D-dur （チェコ放送 ニ長調） 
-  keywords: classic kurasikku czech cheko tyeko europe yo-roppa
+  keywords: classique classic kurasikku czech cheko tyeko europe yo-roppa
   stream: http://icecast5.play.cz/croddur-128.mp3
   website: http://www.rozhlas.cz/d-dur/portal/
   codec: mp3
 
 - id: cd1019
   name: Smooth Jazz Cd101.9 New York 
-  keywords: jazz jazu zyazu newyork nyu-yo-ku nyc english eigo
+  keywords: jazz jazu zyazu newyork nyu-yo-ku nyc english eigo kita amerika north america
   stream: http://hestia2.cdnstream.com/1277_192
   website: http://www.smoothjazzcd1019.com/
   codec: mp3
 
 - id: ottava
   name: オッターバ （日本語のクラシック放送局）
-  keywords: classic kurasikku ottava ottaba otta-ba otta-va nihongo nippongo japanese
+  keywords: classique classic kurasikku ottava ottaba otta-ba otta-va nihongo nippongo japanese asia azia
   stream: http://rakuten.streamguys1.com/ottava1_b
   website: http://ottava.jp/
   codec: mp3
@@ -77,16 +77,51 @@
 
 - id: frm
   name: France Musique
-  keywords: classic kurasikku jazz zyazu francais france fransugo europe yo-roppa
+  keywords: classique classic kurasikku jazz zyazu francais france fransugo europe yo-roppa
   stream: http://direct.francemusique.fr/live/francemusique-midfi.mp3?ID=f9fbk29m84
   website: http://www.francemusique.fr/
   codec: mp3
 
+- id: vibchanson
+  name: Vibration 108, シャンソン. スイス
+  keywords: chanson francaise furansugo pop suisse swiss suisu europe yo-roppa
+  stream: http://91.121.38.100:8510/;
+  website: http://www.vibration108.ch/
+  codec: mp3
+
+- id: ouistiti
+  name: RADIO OUISTITI. フランス語の子供向け放送, スイス
+  keywords: enfant kodomo francaise furansugo suisse swiss suisu europe yo-roppa
+  stream: http://91.121.38.100:8090/;
+  website: http://www.radioouistiti.com/
+  codec: mp3
+
+- id: pasfr
+  name: Radio Passion, シャンソン. Uriage-les-Bains, France.
+  keywords: chanson francaise furansugo pop europe yo-roppa
+  stream: http://213.186.61.62:8088/;
+  website: http://www.radiopassion.fr/
+  codec: mp3
+
 - id: drc
-  name: DeutschlandRadio Kultur
+  name: Deutschlandradio Kultur
   keywords: culture deutsch doitugo doitsugo berlin europe yo-roppa
   stream: http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m
   website: http://www.dradio.de/dkultur/
+  codec: mp3
+
+- id: teddy
+  name: Radio Teddy. ドイツ語の子供向け放送 
+  keywords: kinder kodomo deutsch doitugo doitsugo europe yo-roppa
+  stream: http://217.160.14.191:8000/intro.radioteddy.mp3
+  website: http://www.radioteddy.de/
+  codec: mp3
+
+- id: figarino
+  name: MDR KULTUR FIGARINO. ドイツ語の子供向け放送 
+  keywords: kinder kodomo deutsch doitugo doitsugo halle europe yo-roppa
+  stream: http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_figarino_128.mp3
+  website: http://www.mdr.de/figarino
   codec: mp3
 
 - id: mdr
@@ -119,7 +154,7 @@
 
 - id: blueheron
   name: Blue Heron 青鷺のラジオ 日本の伝統音楽
-  keywords: nihongo nippongo japanese minnyou minyou asia azia
+  keywords: nihongo nippongo japanese minnyou minyou asia azia folklore minzoku
   stream: http://62.75.215.7:8016/;
   website: http://blueheronradio.fm/
   codec: mp3
@@ -132,45 +167,206 @@
   codec: mp3
 
 - id: dibi
-  name: DiBiRadio ロマニ音楽
-  keywords: romania ru-mania europe yo-roppa
-  stream: http://dibiradio.info:8000/
+  name: DiBiRadio ロマニ音楽, ルーマニア
+  keywords: romania ru-mania europe yo-roppa folklore minzoku
+  stream: http://dibiradio.info:8000/;
   website: http://dibiradio.ro
   codec: mp3
 
 - id: balkan
-  name: RadyoBalkan バルカン音楽
-  keywords: balkan ankara turkey toruko europe yo-roppa
-  stream: http://176.31.105.44:8050/
+  name: RadyoBalkan バルカン音楽, アンカラ, トルコ
+  keywords: balkan ankara turkey toruko europe yo-roppa asia azia folklore minzoku
+  stream: http://176.31.105.44:8050/;
   website: http://www.radyobalkan.com/
   codec: mp3
 
+- id: turkrap
+  name: Türkçe Rap Radyosu. トルコ語のラップ
+  keywords: rap turkey toruko europe yo-roppa asia azia
+  stream: http://95.173.188.166:9984/;
+  website: http://www.turkrapfm.net/
+  codec: mp3
+
 - id: uspomena
-  name: Radio Uspomena Berlin バルカン音楽
-  keywords: balkan deutsch doitu doitsu europe yo-roppa
+  name: Radio Uspomena Berlin バルカン音楽, ドイツ
+  keywords: balkan deutsch doitu doitsu europe yo-roppa folklore minzoku
   stream: http://50.7.70.66:8587/;
   website: http://www.radio-uspomena.de.tl
   codec: mp3
 
 - id: celtic
   name: Celtic Moon Live ケルト音楽
-  keywords: celtic keruto europe yo-roppa
+  keywords: celtic keruto europe yo-roppa folklore minzoku
   stream: http://149.56.23.7:20188/stream
   website: http://www.celticradio.net
   codec: mp3
 
 - id: liveireland
   name: Live Ireland Dublin
-  keywords: dublin daburin ireland airurando celtic keruto europe yo-roppa
+  keywords: dublin daburin ireland airurando celtic keruto europe yo-roppa folklore minzoku
   stream: http://66.90.73.250:8000/;
   website: http://liveireland.com/
   codec: mp3
 
 - id: sg
-  name: Melody.FM Singapore Chinese music
-  keywords: chinese chuugokugo tyuugokugo singapo-ru asia azia
+  name: Melody.FM Singapore 中国語の歌
+  keywords: chinese chuugokugo tyuugokugo pop singapo-ru asia azia
   stream: http://50.7.96.210:8360/;
   website: http://www.radiosingapore.org/melody-fm/
+  codec: mp3
+
+- id: desi
+  name: Desi Music Mix! 南アジアのヒット曲
+  keywords: bollywood hindi punjabi bhangra desi pop asia azia
+  stream: http://66.23.234.242:8012/;
+  website: http://desimusicmix.com/
+  codec: mp3
+
+- id: gardarica
+  name: Radio GARDARICA St. Petersburg, Russia
+  keywords: russian rosiago pop europe yo-roppa
+  stream: http://195.182.132.18:8260/;
+  website: http://gardarikafm.ru/
+  codec: mp3
+
+- id: arabic
+  name: Listen Arabic, Beirut, Lebanon
+  keywords: arabiago pop asia azia
+  stream: http://198.105.220.12:4166/Live
+  website: http://www.listenarabic.com/
+  codec: mp3
+
+- id: vibemlw
+  name: Vibe Radio Malawi
+  keywords: pop africa afurika ahurika
+  stream: http://37.187.90.121:3462/stream
+  website: http://viberadiomalawi.net
+  codec: mp3
+
+- id: yoruba
+  name: Yoruba FM 西アフリカの音楽, ロンドン
+  keywords: folklore nigeria benin ghana togo ivory coast london africa afurika ahurika
+  stream: http://206.190.136.141:1216/Live
+  website: http://yorubafm.com
+  codec: mp3
+
+- id: socald
+  name: Soca FM London, 100% Pure Caribbean Music
+  keywords: latin london yo-roppa europe
+  stream: http://68.168.101.146:8639/stream
+  website: http://www.socafm.co.uk/
+  codec: mp3
+
+- id: dakarm
+  name: Dakar Musique, Senegal
+  keywords: folklore africa afurika ahurika
+  stream: http://192.95.39.65:5266/stream
+  website: http://listen.senemultimedia.net:2199/start/dakarmusique/
+  codec: mp3
+
+- id: tropsalsa
+  name: Tropicalisima Salsa, New York
+  keywords: latin north america kita amerika
+  stream: http://50.7.56.2:8020/;
+  website: http://www.tropicalisima.fm/
+  codec: mp3
+
+- id: rumbaes
+  name: Rumba España, Barcelona
+  keywords: latin spain supein europe yo-roppa
+  stream: http://91.121.113.129:8451/stream
+  website: http://www.gruporumba.com/
+  codec: mp3
+
+- id: carnavco
+  name: Carnavaleando, Colombia. メレンゲ、サルサ
+  keywords: latin merengue salsa south america minami amerika
+  stream: http://us1.internet-radio.com:8101/;
+  website: http://www.carnavaleando.co/
+  codec: mp3
+
+- id: onelucian
+  name: ONELUCIAN RADIO, Saint Lucia. カリビアン
+  keywords: latin carribean south america minami amerika
+  stream: http://us2.internet-radio.com:8236/;
+  website: https://www.internet-radio.com/station/nobbie/
+  codec: mp3
+
+- id: bluebossa
+  name: BLUE BOSSA NOVA, Rio de Janeiro, Brazil
+  keywords: latin brasil south america minami amerika
+  stream: http://69.175.13.131:8280/;
+  website: http://www.bluebossanova.com/
+  codec: mp3
+
+- id: agtango
+  name: Argentine Tango Radio
+  keywords: latin south america minami amerika
+  stream: http://178.32.62.154:9364/stream
+  website: http://www.argentinetangoradio.com/
+  codec: mp3
+
+- id: wtango
+  name: WTango, Buenos Aires, Argentina. アルゼンチン・タンゴ
+  keywords: latin tango south america minami amerika
+  stream: http://200.43.192.20:8020/;
+  website: http://www.wtango.com.ar/
+  codec: mp3
+
+- id: caff
+  name: Radio CAFF, Tango. Buenos Aires, Argentina
+  keywords: latin tango south america minami amerika
+  stream: http://198.105.220.12:3411/Live
+  website: http://www.radiocaff.com.ar/
+  codec: mp3
+
+- id: smanta
+  name: Santiagomanta 105.7 FM, Folklore. Santiago del Estero, Argentina フォルクローレ
+  keywords: latin folklore minzoku south america minami amerika
+  stream: http://50.7.70.42:7082/;
+  website: https://www.raddios.com/660-radio-online-santiagomanta-fm-1057-santiago-del-estero-argentina
+  codec: mp3
+
+- id: zeilsteen
+  name: Zeilsteen Radio, indie pop, prog rock. オランダ
+  keywords:  alternative progressive rock netherlands oranda europe yo-roppa
+  stream: http://62.212.74.223:80/;
+  website: http://www.zeilsteen.com/
+  codec: mp3
+
+- id: altmegas
+  name: Alternative Rock Variety from MEGASHUFFLE.com
+  keywords:  alternative rock north america kita amerika
+  stream: http://149.56.23.7:20254/stream
+  website: http://www.megashuffle.com/
+  codec: mp3
+
+- id: toksyna
+  name: Toksyna FM, punk rock, Poland.
+  keywords: chillout punk rock electronic trance europe yo-roppa
+  stream: http://s01.toksyna.fm:8000/;
+  website: http://www.toksyna.fm
+  codec: mp3
+
+- id: crockflo
+  name: Classic Rock Florida, She Radio. 1960から80年代のロック
+  keywords: rock 60s-80s north america kita amerika
+  stream: http://us1.internet-radio.com:8105/;
+  website: http://www.classicrockflorida.com/
+  codec: mp3
+
+- id: dsrhh
+  name: Dirty South Radio, Hip Hop Music. 英語のラップ
+  keywords: rap north america kita amerika
+  stream: http://192.211.51.158:5326/;
+  website: http://www.dirtysouthradioonline.com/
+  codec: mp3
+
+- id: rapbr
+  name: Radio Rap Brasil. ブラジルのラップ
+  keywords: rap brazil south america minami amerika
+  stream: http://184.154.89.186:9944/stream
+  website: http://www.radiorapbrasil.com.br/
   codec: mp3
 
 # no md for the following
