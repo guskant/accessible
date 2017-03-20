@@ -231,7 +231,7 @@
 
 - id: arabic
   name: Listen Arabic, Beirut, Lebanon
-  keywords: arabiago pop asia azia
+  keywords: arabiago pop folklore asia azia
   stream: http://198.105.220.12:4166/Live
   website: http://www.listenarabic.com/
   codec: mp3
