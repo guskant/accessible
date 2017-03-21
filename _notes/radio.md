@@ -23,9 +23,7 @@ datadate: 2017-03-21T07:44:44Z
 #### 言語別
 - [日本語](https://guskant.github.io/accessible/radiosearch.html?query=nihongo)
     - [NHK以外](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+noflash)
-    - [NHK FM](https://guskant.github.io/accessible/radiosearch.html?query=nhk+fm)
-    - [NHK第1](https://guskant.github.io/accessible/radiosearch.html?query=nhk+1)
-    - [NHK第2](https://guskant.github.io/accessible/radiosearch.html?query=nhk+2)
+    - [NHK](https://guskant.github.io/accessible/nhk.html)
 - [英語](https://guskant.github.io/accessible/radiosearch.html?query=english)
 - [スペイン語](https://guskant.github.io/accessible/radiosearch.html?query=espanol)
 - [フランス語](https://guskant.github.io/accessible/radiosearch.html?query=francais)
