@@ -63,7 +63,7 @@
 
 - id: ottava
   name: オッターバ （日本語のクラシック放送局）
-  keywords: classique classic kurasikku ottava ottaba otta-ba otta-va nihongo nippongo japanese asia azia
+  keywords: classique classic kurasikku ottava ottaba otta-ba otta-va nihongo nippongo japanese asia azia noflash
   stream: http://rakuten.streamguys1.com/ottava1_b
   website: http://ottava.jp/
   codec: mp3
@@ -133,35 +133,35 @@
 
 - id: j1
   name: j1fm.tokyo 日本のヒット曲
-  keywords: nihongo nippongo japanese pop asia azia
+  keywords: nihongo nippongo japanese pop asia azia noflash
   stream: http://192.99.62.212:9774/stream
   website: http://jp.j1fm.com/
   codec: mp3
 
 - id: j1ex
   name: j1fm.tokyo Extra 日本のヒット曲 1990年代 2000年代
-  keywords: nihongo nippongo japanese pop asia azia
+  keywords: nihongo nippongo japanese pop asia azia noflash
   stream: http://149.56.23.7:20080/stream
   website: http://jp.j1fm.com/
   codec: mp3
 
 - id: asiadream
   name: Asia DREAM Radio 日本のヒット曲
-  keywords: nihongo nippongo japanese pop asia azia
+  keywords: nihongo nippongo japanese pop asia azia noflash
   stream: http://192.99.62.212:9764/stream
   website: http://www.jpoppowerplay.tokyo/stations/jp.html
   codec: mp3
 
 - id: blueheron
   name: Blue Heron 青鷺のラジオ 日本の伝統音楽
-  keywords: nihongo nippongo japanese minnyou minyou asia azia folklore minzoku
+  keywords: nihongo nippongo japanese minnyou minyou asia azia folklore minzoku noflash
   stream: http://62.75.215.7:8016/;
   website: http://blueheronradio.fm/
   codec: mp3
 
 - id: kahoku
   name: FMかほく 石川県
-  keywords: kahoku isikawa ishikawa chubu tyubu chuubu tyuubu nihongo nippongo japanese asia azia
+  keywords: kahoku isikawa ishikawa chubu tyubu chuubu tyuubu nihongo nippongo japanese asia azia noflash
   stream: http://radio.kahoku.net:8000/;
   website: http://fm.kahoku.net/
   codec: mp3

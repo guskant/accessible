@@ -1,8 +1,8 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-21T06:32:44Z
-datadate: 2017-03-21T06:22:12Z
+date: 2017-03-21T06:47:44Z
+datadate: 2017-03-21T06:46:00Z
 ---
 ### 簡単検索
 以下のリストから検索キーワードを選んでください。
@@ -21,6 +21,9 @@ datadate: 2017-03-21T06:22:12Z
 - [ラップ](https://guskant.github.io/accessible/radiosearch.html?query=rap)
 
 #### 言語別
+- [日本語](https://guskant.github.io/accessible/radiosearch.html?query=nihongo)
+    - [NHK以外](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+noflash)
+    - [NHK](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+nhk)
 - [英語](https://guskant.github.io/accessible/radiosearch.html?query=english)
 - [スペイン語](https://guskant.github.io/accessible/radiosearch.html?query=espanol)
 - [フランス語](https://guskant.github.io/accessible/radiosearch.html?query=francais)
@@ -32,15 +35,6 @@ datadate: 2017-03-21T06:22:12Z
 - [アラビア語](https://guskant.github.io/accessible/radiosearch.html?query=arabic)
 - [中国語](https://guskant.github.io/accessible/radiosearch.html?query=zhongwen)
 - [ヒンディ語やウルドゥ語など](https://guskant.github.io/accessible/radiosearch.html?query=desi)
-- [日本語](https://guskant.github.io/accessible/radiosearch.html?query=nihongo)
-    - [北海道](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+hokkaido)
-    - [東北](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+touhoku)
-    - [関東](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+kantou)
-    - [中部](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+tyuubu)
-    - [近畿](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+kinki)
-    - [中国](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+tyuugoku)
-    - [四国](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+sikoku)
-    - [九州](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+kyuusyuu)
 
 ### 他のキーワードで検索
 <form action="/accessible/radiosearch.html" method="get">
