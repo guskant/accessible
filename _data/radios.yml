@@ -70,14 +70,14 @@
 
 - id: tsfj
   name: TSF Jazz Paris 
-  keywords: jazz jazu zyazu paris francais france fransugo europe yo-roppa
+  keywords: jazz jazu zyazu paris francais france furansugo europe yo-roppa
   stream: http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
   website: http://www.tsfjazz.com/
   codec: mp3
 
 - id: frm
   name: France Musique
-  keywords: classique classic kurasikku jazz zyazu francais france fransugo europe yo-roppa
+  keywords: classique classic kurasikku jazz zyazu francais france furansugo europe yo-roppa
   stream: http://direct.francemusique.fr/live/francemusique-midfi.mp3?ID=f9fbk29m84
   website: http://www.francemusique.fr/
   codec: mp3
@@ -210,7 +210,7 @@
 
 - id: sg
   name: Melody.FM Singapore 中国語の歌
-  keywords: chinese chuugokugo tyuugokugo pop singapo-ru asia azia
+  keywords: zhongwen chinese chuugokugo tyuugokugo pop singapo-ru asia azia
   stream: http://50.7.96.210:8360/;
   website: http://www.radiosingapore.org/melody-fm/
   codec: mp3
@@ -231,20 +231,20 @@
 
 - id: arabic
   name: Listen Arabic, Beirut, Lebanon
-  keywords: arabiago pop folklore asia azia
+  keywords: arabiago pop folklore liban asia azia
   stream: http://198.105.220.12:4166/Live
   website: http://www.listenarabic.com/
   codec: mp3
 
 - id: vibemlw
-  name: Vibe Radio Malawi
-  keywords: pop africa afurika ahurika
+  name: Vibe Radio Malawi, Africa. マラウィのヒット曲、主に英語
+  keywords: pop africa afurika ahurika english eigo
   stream: http://37.187.90.121:3462/stream
   website: http://viberadiomalawi.net
   codec: mp3
 
 - id: yoruba
-  name: Yoruba FM 西アフリカの音楽, ロンドン
+  name: Yoruba FM 西アフリカの音楽をロンドンから発信
   keywords: folklore nigeria benin ghana togo ivory coast london africa afurika ahurika europe yo-roppa
   stream: http://206.190.136.141:1216/Live
   website: http://yorubafm.com
@@ -252,77 +252,77 @@
 
 - id: socald
   name: Soca FM London, 100% Pure Caribbean Music
-  keywords: latin london yo-roppa europe
+  keywords: latin london yo-roppa europe espanol
   stream: http://68.168.101.146:8639/stream
   website: http://www.socafm.co.uk/
   codec: mp3
 
 - id: dakarm
-  name: Dakar Musique, Senegal
-  keywords: folklore africa afurika ahurika
+  name: Dakar Musique, Senegal. フランス語や、セネガルで使われる諸言語の歌
+  keywords: folklore africa afurika ahurika francais furansugo senegalais
   stream: http://192.95.39.65:5266/stream
   website: http://listen.senemultimedia.net:2199/start/dakarmusique/
   codec: mp3
 
 - id: tropsalsa
   name: Tropicalisima Salsa, New York
-  keywords: latin north america kita amerika
+  keywords: latin north america kita amerika espanol
   stream: http://50.7.56.2:8020/;
   website: http://www.tropicalisima.fm/
   codec: mp3
 
 - id: rumbaes
   name: Rumba España, Barcelona
-  keywords: latin spain supein europe yo-roppa
+  keywords: latin spain supein europe yo-roppa espanol
   stream: http://91.121.113.129:8451/stream
   website: http://www.gruporumba.com/
   codec: mp3
 
 - id: carnavco
   name: Carnavaleando, Colombia. メレンゲ、サルサ
-  keywords: latin merengue salsa south america minami amerika
+  keywords: latin merengue salsa south america minami amerika espanol
   stream: http://us1.internet-radio.com:8101/;
   website: http://www.carnavaleando.co/
   codec: mp3
 
 - id: onelucian
-  name: ONELUCIAN RADIO, Saint Lucia. カリビアン
-  keywords: latin carribean south america minami amerika
+  name: ONELUCIAN RADIO, Saint Lucia. 英語のカリビアン
+  keywords: latin carribean south america minami amerika english eigo
   stream: http://us2.internet-radio.com:8236/;
   website: https://www.internet-radio.com/station/nobbie/
   codec: mp3
 
 - id: bluebossa
   name: BLUE BOSSA NOVA, Rio de Janeiro, Brazil
-  keywords: latin brasil south america minami amerika
+  keywords: latin brasil south america minami amerika portuguesdobrasil
   stream: http://69.175.13.131:8280/;
   website: http://www.bluebossanova.com/
   codec: mp3
 
 - id: agtango
   name: Argentine Tango Radio
-  keywords: latin south america minami amerika
+  keywords: latin south america minami amerika espanol
   stream: http://178.32.62.154:9364/stream
   website: http://www.argentinetangoradio.com/
   codec: mp3
 
 - id: wtango
   name: WTango, Buenos Aires, Argentina. アルゼンチン・タンゴ
-  keywords: latin tango south america minami amerika
+  keywords: latin tango south america minami amerika espanol
   stream: http://200.43.192.20:8020/;
   website: http://www.wtango.com.ar/
   codec: mp3
 
 - id: caff
   name: Radio CAFF, Tango. Buenos Aires, Argentina
-  keywords: latin tango south america minami amerika
+  keywords: latin tango south america minami amerika espanol
   stream: http://198.105.220.12:3411/Live
   website: http://www.radiocaff.com.ar/
   codec: mp3
 
 - id: smanta
   name: Santiagomanta 105.7 FM, Folklore. Santiago del Estero, Argentina フォルクローレ
-  keywords: latin folklore minzoku south america minami amerika
+  keywords: latin folklore minzoku south america minami amerika espanol
   stream: http://50.7.70.42:7082/;
   website: https://www.raddios.com/660-radio-online-santiagomanta-fm-1057-santiago-del-estero-argentina
   codec: mp3
@@ -364,56 +364,56 @@
 
 - id: rapbr
   name: Radio Rap Brasil. ブラジルのラップ
-  keywords: rap brazil south america minami amerika
+  keywords: rap brazil south america minami amerika portuguesdobrasil
   stream: http://184.154.89.186:9944/stream
   website: http://www.radiorapbrasil.com.br/
   codec: mp3
 
 # no md for the following
 - id: nhkfm
-  name: NHK FM 東京版 （NHKのページに飛びます）
+  name: NHK FM 東京 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese tokyo toukyou kantou asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_tokyo.html
   codec: mp3
 
 - id: nhkfmsp
-  name: NHK FM 札幌版 （NHKのページに飛びます）
+  name: NHK FM 札幌 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_sapporo.html
   codec: mp3
 
 - id: nhkfmsd
-  name: NHK FM 仙台版 （NHKのページに飛びます）
+  name: NHK FM 仙台 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese sendai miyagi touhoku tohoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_sendai.html
   codec: mp3
 
 - id: nhkfmng
-  name: NHK FM 名古屋版 （NHKのページに飛びます）
+  name: NHK FM 名古屋 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese nagoya aichi aiti chuubu tyuubu chubu tyubu asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_nagoya.html
   codec: mp3
 
 - id: nhkfmos
-  name: NHK FM 大阪版 （NHKのページに飛びます）
+  name: NHK FM 大阪 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese osaka oosaka kinki asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_osaka.html
   codec: mp3
 
 - id: nhkfmhs
-  name: NHK FM 広島版 （NHKのページに飛びます）
+  name: NHK FM 広島 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese hiroshima hirosima tyuugoku chuugoku tyugoku chugoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_hiroshima.html
   codec: mp3
 
 - id: nhkfmmy
-  name: NHK FM 松山版 （NHKのページに飛びます）
+  name: NHK FM 松山 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese matsuyama matuyama ehime sikoku shikoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_matsuyama.html
   codec: mp3
 
 - id: nhkfmfo
-  name: NHK FM 福岡版 （NHKのページに飛びます）
+  name: NHK FM 福岡 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese fukuoka hukuoka kyusyu kyushu kyuusyuu kyuushuu asia azia
   website: http://www3.nhk.or.jp/netradio/k/fm_fukuoka.html
   codec: mp3
@@ -425,49 +425,49 @@
   codec: mp3
 
 - id: nhkr1
-  name: NHK ラジオ第1 東京版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 東京 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese tokyo toukyou kantou asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_tokyo.html
   codec: mp3
 
 - id: nhkr1sp
-  name: NHK ラジオ第1 札幌版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 札幌 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese sapporo hokkaido hokkaido hokkaidou asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_sapporo.html
   codec: mp3
 
 - id: nhkr1sd
-  name: NHK ラジオ第1 仙台版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 仙台 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese sendai miyagi tohoku touhoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_sendai.html
   codec: mp3
 
 - id: nhkr1ng
-  name: NHK ラジオ第1 名古屋版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 名古屋 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese nagoya aichi aiti chubu tyubu chuubu tyuubu asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_nagoya.html
   codec: mp3
 
 - id: nhkr1os
-  name: NHK ラジオ第1 大阪版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 大阪 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese osaka oosaka kinki asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_osaka.html
   codec: mp3
 
 - id: nhkr1hs
-  name: NHK ラジオ第1 広島版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 広島 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese hiroshima hirosima tyugoku chugoku tyuugoku chuugoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_hiroshima.html
   codec: mp3
 
 - id: nhkr1my
-  name: NHK ラジオ第1 松山版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 松山 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese matsuyama matuyama ehime sikoku shikoku asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_matsuyama.html
   codec: mp3
 
 - id: nhkr1fo
-  name: NHK ラジオ第1 福岡版 （NHKのページに飛びます）
+  name: NHK ラジオ第1 福岡 （NHKのページに飛びます）
   keywords: nihongo nippongo japanese fukuoka hukuoka kyusyu kyushu kyuusyuu kyuushuu asia azia
   website: http://www3.nhk.or.jp/netradio/k/r1_fukuoka.html
   codec: mp3
