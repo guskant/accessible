@@ -173,6 +173,13 @@
   website: http://fm.kahoku.net/
   codec: mp3
 
+- id: tfmworld
+  name: Tokyo FM World. 英語や中国語などで東京の情報を発信
+  keywords: english zhongwen chinese japan asia azia noflash
+  stream: http://tokyofmworld.leanstream.co/JOAUFM-MP3
+  website: http://www.tfm.co.jp/tfmworld/ja/index.html
+  codec: mp3
+
 - id: dibi
   name: DiBiRadio ロマニ音楽, ルーマニア
   keywords: romania ru-mania europe yo-roppa folklore minzoku
