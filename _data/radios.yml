@@ -224,7 +224,7 @@
 
 - id: desi
   name: Desi Music Mix! 南アジアのヒット曲
-  keywords: bollywood hindi punjabi bhangra desi pop asia azia
+  keywords: bollywood hindi punjabi bhangra desi pop folklore asia azia
   stream: http://66.23.234.242:8012/;
   website: http://desimusicmix.com/
   codec: mp3
