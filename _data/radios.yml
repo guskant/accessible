@@ -110,6 +110,13 @@
   website: http://www.dradio.de/dkultur/
   codec: mp3
 
+- id: sawd
+  name: radio SAW Deutsch. ドイツ語の歌
+  keywords: lieder deutsch doitugo doitsugo europe yo-roppa
+  stream: http://radiosaw.hoerradar.de/sawdeutsch-128?sABC=58q0s29r%230%23r995o0nsp9o522p97004499516pn6294%23yvfgrayvirrh&amsparams=playerid:listenliveeu;skey:1490088606
+  website: http://www.saw-musikwelt.de/www/deutsch/
+  codec: mp3
+
 - id: teddy
   name: Radio Teddy. ドイツ語の子供向け放送 
   keywords: kinder kodomo deutsch doitugo doitsugo europe yo-roppa
