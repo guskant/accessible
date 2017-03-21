@@ -1,8 +1,8 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-21T06:47:46Z
-datadate: 2017-03-21T06:46:00Z
+date: 2017-03-21T07:39:35Z
+datadate: 2017-03-21T07:38:49Z
 ---
 ### 簡単検索
 以下のリストから検索キーワードを選んでください。
@@ -14,7 +14,7 @@ datadate: 2017-03-21T06:46:00Z
   - [ヨーロッパ](https://guskant.github.io/accessible/radiosearch.html?query=folklore+europe)
   - [アフリカ](https://guskant.github.io/accessible/radiosearch.html?query=folklore+africa)
   - [アジア](https://guskant.github.io/accessible/radiosearch.html?query=folklore+asia)
-  - [アフリカ](https://guskant.github.io/accessible/radiosearch.html?query=folklore+africa)
+  - [オセアニア](https://guskant.github.io/accessible/radiosearch.html?query=folklore+oceania)
   - [アメリカ](https://guskant.github.io/accessible/radiosearch.html?query=folklore+america)
 - [ロック](https://guskant.github.io/accessible/radiosearch.html?query=rock)
 - [ポップ](https://guskant.github.io/accessible/radiosearch.html?query=pop)
@@ -30,11 +30,12 @@ datadate: 2017-03-21T06:46:00Z
 - [ポルトガル語](https://guskant.github.io/accessible/radiosearch.html?query=portugues)
 - [ドイツ語](https://guskant.github.io/accessible/radiosearch.html?query=deutsch)
 - [チェコ語](https://guskant.github.io/accessible/radiosearch.html?query=czech)
-- [アフリカの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=afrs)
 - [トルコ語](https://guskant.github.io/accessible/radiosearch.html?query=toruko)
 - [アラビア語](https://guskant.github.io/accessible/radiosearch.html?query=arabic)
 - [中国語](https://guskant.github.io/accessible/radiosearch.html?query=zhongwen)
 - [ヒンディ語やウルドゥ語など](https://guskant.github.io/accessible/radiosearch.html?query=desi)
+- [アフリカの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=afrs)
+- [オセアニアの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=oceanic)
 
 ### 他のキーワードで検索
 <form action="/accessible/radiosearch.html" method="get">

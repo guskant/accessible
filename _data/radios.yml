@@ -146,10 +146,17 @@
   codec: mp3
 
 - id: asiadream
-  name: Asia DREAM Radio 日本のヒット曲
+  name: Asia DREAM Radio. 日本のヒット曲
   keywords: nihongo nippongo japanese pop asia azia noflash
   stream: http://192.99.62.212:9764/stream
   website: http://www.jpoppowerplay.tokyo/stations/jp.html
+  codec: mp3
+
+- id: bbkpop
+  name: Big B Radio KPOP. 韓国のヒット曲
+  keywords: kpop korean pop asia azia
+  stream: http://64.71.79.181:8040/;
+  website: http://www.bigbradio.net/radiochannel/kpop/
   codec: mp3
 
 - id: blueheron
@@ -381,6 +388,20 @@
   keywords: folklore europe yo-roppa espagnol
   stream: http://195.10.10.225/rtva/canalflamenco.mp3?GKID=111d7aaa0df711e78e1000163e914f69&fspref=aHR0cDovL3d3dy5saXN0ZW5saXZlLmV1L3NwYWluLmh0bWw%3D
   website: http://blogs.canalsur.es/parrilla_cfl/
+  codec: mp3
+
+- id: hoolohe
+  name: Ho`olohe Hou Radio. Hawaiian.
+  keywords: folklore hawaiian pacific oceania oceanic
+  stream: http://206.190.136.212:3259/Live
+  website: http://www.hawaiianmusiclives.com/
+  codec: mp3
+
+- id: hawaiirbw
+  name: HawaiianRainbow.com. Hawaiian music.
+  keywords: folklore hawaiian pacific oceania oceanic
+  stream: http://77.92.64.44:8022/;
+  website: http://www.hawaiianrainbow.com/
   codec: mp3
 
 # no md for the following
