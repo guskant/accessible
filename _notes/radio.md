@@ -1,7 +1,7 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-21T07:39:35Z
+date: 2017-03-21T08:06:31Z
 datadate: 2017-03-21T07:44:44Z
 ---
 ### 簡単検索
@@ -23,7 +23,9 @@ datadate: 2017-03-21T07:44:44Z
 #### 言語別
 - [日本語](https://guskant.github.io/accessible/radiosearch.html?query=nihongo)
     - [NHK以外](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+noflash)
-    - [NHK](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+nhk)
+    - [NHK FM](https://guskant.github.io/accessible/radiosearch.html?query=nhk+fm)
+    - [NHK第1](https://guskant.github.io/accessible/radiosearch.html?query=nhk+1)
+    - [NHK第2](https://guskant.github.io/accessible/radiosearch.html?query=nhk+2)
 - [英語](https://guskant.github.io/accessible/radiosearch.html?query=english)
 - [スペイン語](https://guskant.github.io/accessible/radiosearch.html?query=espanol)
 - [フランス語](https://guskant.github.io/accessible/radiosearch.html?query=francais)
