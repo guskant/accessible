@@ -203,7 +203,7 @@
 
 - id: uspomena
   name: Radio Uspomena Berlin バルカン音楽, ドイツ
-  keywords: balkan deutsch doitu doitsu europe yo-roppa folklore minzoku
+  keywords: balkan germany doitu doitsu europe yo-roppa folklore minzoku
   stream: http://50.7.70.66:8587/;
   website: http://www.radio-uspomena.de.tl
   codec: mp3
