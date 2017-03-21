@@ -1,7 +1,7 @@
 ---
-layout: radio
+layout: post
 title: NHKのラジオ
-date: 2017-03-21T08:33:44Z
+date: 2017-03-21T08:39:02Z
 ---
 ### NHKのラジオはNHKのウェブページで聴くことができます。
 - [NHK FM 札幌](http://www3.nhk.or.jp/netradio/k/fm_sapporo.html)
