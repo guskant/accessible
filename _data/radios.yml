@@ -244,22 +244,22 @@
   codec: mp3
 
 - id: yoruba
-  name: Yoruba FM 西アフリカの音楽をロンドンから発信
-  keywords: folklore nigeria benin ghana togo ivory coast london africa afurika ahurika europe yo-roppa
+  name: Yoruba FM. 西アフリカの音楽をロンドンから発信
+  keywords: folklore nigeria benin ghana togo ivory coast london africa afurika ahurika afrs
   stream: http://206.190.136.141:1216/Live
   website: http://yorubafm.com
   codec: mp3
 
 - id: socald
-  name: Soca FM London, 100% Pure Caribbean Music
+  name: Soca FM London. 100% Pure Caribbean Music
   keywords: latin london yo-roppa europe espanol
   stream: http://68.168.101.146:8639/stream
   website: http://www.socafm.co.uk/
   codec: mp3
 
 - id: dakarm
-  name: Dakar Musique, Senegal. フランス語や、セネガルで使われる諸言語の歌
-  keywords: folklore africa afurika ahurika francais furansugo senegalais
+  name: Dakar Musique, Senegal. セネガルで使われる諸言語の歌
+  keywords: folklore africa afurika ahurika francais furansugo senegalais afrs
   stream: http://192.95.39.65:5266/stream
   website: http://listen.senemultimedia.net:2199/start/dakarmusique/
   codec: mp3
@@ -294,7 +294,7 @@
 
 - id: bluebossa
   name: BLUE BOSSA NOVA, Rio de Janeiro, Brazil
-  keywords: latin brasil south america minami amerika portuguesdobrasil
+  keywords: latin brasil south america minami amerika ptbr portugues
   stream: http://69.175.13.131:8280/;
   website: http://www.bluebossanova.com/
   codec: mp3
@@ -321,7 +321,7 @@
   codec: mp3
 
 - id: smanta
-  name: Santiagomanta 105.7 FM, Folklore. Santiago del Estero, Argentina フォルクローレ
+  name: Santiagomanta 105.7 FM, Folklore. Santiago del Estero, Argentina
   keywords: latin folklore minzoku south america minami amerika espanol
   stream: http://50.7.70.42:7082/;
   website: https://www.raddios.com/660-radio-online-santiagomanta-fm-1057-santiago-del-estero-argentina
@@ -364,9 +364,23 @@
 
 - id: rapbr
   name: Radio Rap Brasil. ブラジルのラップ
-  keywords: rap brazil south america minami amerika portuguesdobrasil
+  keywords: rap brazil south america minami amerika ptbr portugues
   stream: http://184.154.89.186:9944/stream
   website: http://www.radiorapbrasil.com.br/
+  codec: mp3
+
+- id: fado
+  name: Radio Fado. Setubal, Portugal.
+  keywords: folklore europe yo-roppa ptpt portugues
+  stream: http://78.47.96.202:8500/;
+  website: http://tunein.com/radio/A-Tua-Radio-Fado-s233368/
+  codec: mp3
+
+- id: canalflam
+  name: RTVA Canal Flamenco Radio. Seville, Spain.
+  keywords: folklore europe yo-roppa espagnol
+  stream: http://195.10.10.225/rtva/canalflamenco.mp3?GKID=111d7aaa0df711e78e1000163e914f69&fspref=aHR0cDovL3d3dy5saXN0ZW5saXZlLmV1L3NwYWluLmh0bWw%3D
+  website: http://blogs.canalsur.es/parrilla_cfl/
   codec: mp3
 
 # no md for the following

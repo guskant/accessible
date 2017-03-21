@@ -1,8 +1,8 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-21T04:19:29Z
-datadate: 2017-03-21T04:27:06Z
+date: 2017-03-21T06:32:44Z
+datadate: 2017-03-21T06:22:12Z
 ---
 ### 簡単検索
 以下のリストから検索キーワードを選んでください。
@@ -24,11 +24,10 @@ datadate: 2017-03-21T04:27:06Z
 - [英語](https://guskant.github.io/accessible/radiosearch.html?query=english)
 - [スペイン語](https://guskant.github.io/accessible/radiosearch.html?query=espanol)
 - [フランス語](https://guskant.github.io/accessible/radiosearch.html?query=francais)
+- [ポルトガル語](https://guskant.github.io/accessible/radiosearch.html?query=portugues)
 - [ドイツ語](https://guskant.github.io/accessible/radiosearch.html?query=deutsch)
 - [チェコ語](https://guskant.github.io/accessible/radiosearch.html?query=czech)
-- [ブラジルポルトガル語](https://guskant.github.io/accessible/radiosearch.html?query=portuguesdobrasil)
-- [ヨルバ系の諸言語](https://guskant.github.io/accessible/radiosearch.html?query=yoruba)
-- [セネガルの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=senegalais)
+- [アフリカの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=afrs)
 - [トルコ語](https://guskant.github.io/accessible/radiosearch.html?query=toruko)
 - [アラビア語](https://guskant.github.io/accessible/radiosearch.html?query=arabic)
 - [中国語](https://guskant.github.io/accessible/radiosearch.html?query=zhongwen)
