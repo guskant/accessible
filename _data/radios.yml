@@ -306,13 +306,6 @@
   website: http://www.gruporumba.com/
   codec: mp3
 
-- id: carnavco
-  name: Carnavaleando, Colombia. メレンゲ、サルサ
-  keywords: latin merengue salsa south america minami amerika espanol
-  stream: http://us1.internet-radio.com:8101/;
-  website: http://www.carnavaleando.co/
-  codec: mp3
-
 - id: onelucian
   name: ONELUCIAN RADIO, Saint Lucia. 英語のカリビアン
   keywords: latin carribean south america minami amerika english eigo
