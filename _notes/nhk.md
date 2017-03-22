@@ -1,9 +1,9 @@
 ---
 layout: post
 title: NHKのラジオ
-date: 2017-03-21T08:39:02Z
+date: 2017-03-22T10:01:24Z
 ---
-### NHKのラジオはNHKのウェブページで聴くことができます。
+### NHKのラジオは、アドビのフラッシュプレイヤー・プラグインをインストールしてあるパソコンであれば、以下のリンク先にあるNHKのウェブページで聴くことができます。
 - [NHK FM 札幌](http://www3.nhk.or.jp/netradio/k/fm_sapporo.html)
 - [NHK FM 仙台](http://www3.nhk.or.jp/netradio/k/fm_sendai.html)
 - [NHK FM 東京](http://www3.nhk.or.jp/netradio/k/fm_tokyo.html)
@@ -21,4 +21,9 @@ date: 2017-03-21T08:39:02Z
 - [NHKラジオ第1 松山](http://www3.nhk.or.jp/netradio/k/r1_matsuyama.html)
 - [NHKラジオ第1 福岡](http://www3.nhk.or.jp/netradio/k/r1_fukuoka.html)
 - [NHKラジオ第2](http://www3.nhk.or.jp/netradio/k/r2.html)
+
+### スマートフォンやタブレットでは、以下のアプリのどちらかをインストールすると、NHKのラジオを聴くことができます。
+- [Android用のアプリ](https://market.android.com/details?id=jp.nhk.netradio)
+- [iOS用のアプリ](http://itunes.apple.com/jp/app/id473937342?mt=8)
+
 

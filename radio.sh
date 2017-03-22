@@ -1,19 +1,8 @@
 #!/bin/bash
 
-# count radio stations
-grep "\- id:" ./_data/radios.yml | sed -e 's/- id://' -e '/nhk/d' > dtlist
-
-DT=`cat dtlist | wc -l`
-OTHER=`ls ./radio | wc -l`
-ALL=`expr $DT + $OTHER`
-DATACOUNT="	登録ラジオ局数： ""`echo $ALL`""件"
-awk --assign awk_datacount="$DATACOUNT" '{
-		sub(/^.*登録ラジオ局数.*$/, awk_datacount); 
-		print $0
-	}' ./_layouts/radio.html > ./_layouts/radio.html-count
-	mv ./_layouts/radio.html-count ./_layouts/radio.html
-
 # add new md files
+grep "\- id:" ./_data/radios.yml | sed -e 's/- id://' -e '/nhk/d' > dtlist
+DT=`cat dtlist | wc -l`
 L=1
 while [ $L -le $DT ]; do
   ID="`sed -n $L'p' dtlist`"
@@ -25,7 +14,6 @@ done
 
 # rm outdated md files
 ls ./_radios | sed -e 's/.md *//g' > mdlist
-
 MD=`cat mdlist | wc -l`
 L=1
 while [ $L -le $MD ]; do
@@ -36,6 +24,16 @@ while [ $L -le $MD ]; do
   fi
   L=$(( $L + 1 ))
 done
+
+# count radio stations
+OTHER=`ls ./radio | wc -l`
+ALL=`expr $DT + $OTHER`
+DATACOUNT="	登録ラジオ局数： ""`echo $ALL`""件"
+awk --assign awk_datacount="$DATACOUNT" '{
+		sub(/^.*登録ラジオ局数.*$/, awk_datacount); 
+		print $0
+	}' ./_layouts/radio.html > ./_layouts/radio.html-count
+	mv ./_layouts/radio.html-count ./_layouts/radio.html
 
 # rm temp files
 rm dtlist mdlist
