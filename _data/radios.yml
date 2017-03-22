@@ -117,6 +117,13 @@
   website: http://www.saw-musikwelt.de/www/deutsch/
   codec: mp3
 
+- id: rtslg
+  name: RauteMusik Schlager. ドイツ語のヒット曲
+  keywords: lieder pop deutsch doitugo doitsugo europe yo-roppa
+  stream: http://schlager-high.rautemusik.fm
+  website: http://www.rautemusik.fm/
+  codec: mp3
+
 - id: teddy
   name: Radio Teddy. ドイツ語の子供向け放送 
   keywords: kinder kodomo deutsch doitugo doitsugo europe yo-roppa
