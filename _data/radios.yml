@@ -153,10 +153,17 @@
   codec: mp3
 
 - id: j1ex
-  name: j1fm.tokyo Extra 日本のヒット曲 1990年代 2000年代
+  name: j1fm.tokyo Extra 日本のヒット曲 1990から2000年代
   keywords: nihongo nippongo japanese pop asia azia noflash
   stream: http://149.56.23.7:20080/stream
   website: http://jp.j1fm.com/
+  codec: mp3
+
+- id: 7090jpop
+  name: 70s-90s J-pop Stream 日本のヒット曲 1970から90年代
+  keywords: nihongo nippongo japanese pop asia azia noflash
+  stream: http://198.178.123.14:7002/stream
+  website: https://www.internet-radio.com/stations/jpop/
   codec: mp3
 
 - id: asiadream
@@ -164,6 +171,13 @@
   keywords: nihongo nippongo japanese pop asia azia noflash
   stream: http://192.99.62.212:9764/stream
   website: http://www.jpoppowerplay.tokyo/stations/jp.html
+  codec: mp3
+
+- id: jclubhh
+  name: J-Club Powerplay HipHop. 日本語のラップ
+  keywords: nihongo nippongo japanese rap asia azia noflash
+  stream: http://198.27.65.120:20216/stream
+  website: http://www.asiadreamradio.com
   codec: mp3
 
 - id: bbkpop
@@ -416,6 +430,27 @@
   keywords: folklore hawaiian pacific oceania oceanic
   stream: http://77.92.64.44:8022/;
   website: http://www.hawaiianrainbow.com/
+  codec: mp3
+
+- id: matariki
+  name: Matariki FM. クック諸島、タヒチの音楽.
+  keywords: folklore cook islands tahitian pacific oceania oceanic
+  stream: http://205.234.238.42:4070/;
+  website: http://205.234.238.42:4070/
+  codec: mp3
+
+- id: nhactt
+  name: Cherry Radio, Nhac tru tinh. ベトナム語の歌.
+  keywords: vietnamien vietnamese pop asia azia
+  stream: http://174.37.252.208:8500/;
+  website: http://www.cherryradio.com.au/
+  codec: mp3
+
+- id: xone
+  name: XONE RADIO - The Hottest Music Program all over Vietnam. ベトナム語のポップ.
+  keywords: vietnamien vietnamese pop asia azia
+  stream: http://198.105.220.12:3360/Live
+  website: http://xonefm.com/
   codec: mp3
 
 # no md for the following
