@@ -420,21 +420,21 @@
 
 - id: hoolohe
   name: Ho`olohe Hou Radio. Hawaiian.
-  keywords: folklore hawaiian pacific oceania oceanic
+  keywords: folklore hawaiian pacific oceania oceaniens
   stream: http://206.190.136.212:3259/Live
   website: http://www.hawaiianmusiclives.com/
   codec: mp3
 
 - id: hawaiirbw
   name: HawaiianRainbow.com. Hawaiian music.
-  keywords: folklore hawaiian pacific oceania oceanic
+  keywords: folklore hawaiian pacific oceania oceaniens
   stream: http://77.92.64.44:8022/;
   website: http://www.hawaiianrainbow.com/
   codec: mp3
 
 - id: matariki
   name: Matariki FM. クック諸島、タヒチの音楽.
-  keywords: folklore cook islands tahitian pacific oceania oceanic
+  keywords: folklore cook islands tahitian pacific oceania oceaniens
   stream: http://205.234.238.42:4070/;
   website: http://205.234.238.42:4070/
   codec: mp3

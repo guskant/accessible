@@ -1,7 +1,7 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-22T02:52:58Z
+date: 2017-03-28T09:49:51Z
 datadate: 2017-03-28T09:25:38Z
 ---
 ### 簡単検索
@@ -32,11 +32,12 @@ datadate: 2017-03-28T09:25:38Z
 - [チェコ語](https://guskant.github.io/accessible/radiosearch.html?query=czech)
 - [トルコ語](https://guskant.github.io/accessible/radiosearch.html?query=toruko)
 - [アラビア語](https://guskant.github.io/accessible/radiosearch.html?query=arabic)
+- [ベトナム語](https://guskant.github.io/accessible/radiosearch.html?query=vietnamien)
 - [中国語](https://guskant.github.io/accessible/radiosearch.html?query=zhongwen)
 - [ロシア語](https://guskant.github.io/accessible/radiosearch.html?query=russian)
 - [ヒンディ語やウルドゥ語など](https://guskant.github.io/accessible/radiosearch.html?query=desi)
 - [アフリカの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=afrs)
-- [オセアニアの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=oceanic)
+- [オセアニアの諸言語](https://guskant.github.io/accessible/radiosearch.html?query=oceaniens)
 
 ### 他のキーワードで検索
 <form action="/accessible/radiosearch.html" method="get">
