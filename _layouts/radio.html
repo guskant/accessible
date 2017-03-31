@@ -9,7 +9,13 @@
     <div class="content">
       {{ content }}
       <div>
-      <a href="javascript:history.back();">前のページに戻る</a>
+	<script type="text/javascript">
+	if (history.length < 2) {
+		document.write("<a href='javascript:self.close()'>このページを閉じる</a>");
+	} else {
+		document.write("<a href='javascript:history.back()'>前のページに戻る</a>");
+	}
+	</script>
       </div>
     </div>
     <footer>

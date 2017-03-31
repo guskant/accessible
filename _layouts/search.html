@@ -11,7 +11,13 @@
 	{{ content }}
 	</div>
       <div>
-      <a href="javascript:history.back();">前のページに戻る</a>
+	<script type="text/javascript">
+	if (history.length < 2) {
+		document.write("<a href='javascript:self.close()'>このページを閉じる</a>");
+	} else {
+		document.write("<a href='javascript:history.back()'>前のページに戻る</a>");
+	}
+	</script>
       </div>
       <div>
       <a href="/accessible/radio.html">検索の最初のページに戻る</a>
