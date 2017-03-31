@@ -411,10 +411,17 @@
   website: http://tunein.com/radio/A-Tua-Radio-Fado-s233368/
   codec: mp3
 
+- id: galicia
+  name: Son Galicia Radio, Spain. ガリシアの音楽
+  keywords: folklore europe yo-roppa espagnol
+  stream: http://85.91.64.29:80/son_galicia_radio
+  website: http://www.crtvg.es/
+  codec: mp3
+
 - id: canalflam
   name: RTVA Canal Flamenco Radio. Seville, Spain.
   keywords: folklore europe yo-roppa espagnol
-  stream: http://195.10.10.225/rtva/canalflamenco.mp3?GKID=111d7aaa0df711e78e1000163e914f69&fspref=aHR0cDovL3d3dy5saXN0ZW5saXZlLmV1L3NwYWluLmh0bWw%3D
+  stream: http://195.55.74.207/rtva/canalflamenco.mp3?GKID=51da4dc6161b11e7b0a100163e914f69&fspref=aHR0cDovL3d3dy5saXN0ZW5saXZlLmV1L3NwYWluLmh0bWw%3D
   website: http://blogs.canalsur.es/parrilla_cfl/
   codec: mp3
 
