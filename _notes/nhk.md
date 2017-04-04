@@ -3,7 +3,7 @@ layout: post
 title: NHKのラジオ
 date: 2017-04-04T00:10:14Z
 ---
-### NHKのラジオは、アドビのフラッシュプレイヤー・プラグインをインストールしてあるパソコンであれば、以下のリンク先にあるNHKのウェブページで聴くことができます。 ただし、フラッシュの技術には多くの問題点が指摘されているので（<a name="flash" href="#footnote">脚注に挙げたリンク先を参照</a>）、フラッシュを使わせないようにしているブラウザが増えています。
+### NHKのラジオは、アドビのフラッシュプレイヤー・プラグインをインストールしてあるパソコンであれば、以下のリンク先にあるNHKのウェブページで聴くことができます。 ただし、フラッシュの技術には多くの問題点が指摘されているので（[脚注に挙げたリンク先を参照](#footnote)）、フラッシュを使わせないようにしているブラウザが増えています。
 - [NHK FM 札幌](http://www3.nhk.or.jp/netradio/k/fm_sapporo.html)
 - [NHK FM 仙台](http://www3.nhk.or.jp/netradio/k/fm_sendai.html)
 - [NHK FM 東京](http://www3.nhk.or.jp/netradio/k/fm_tokyo.html)
@@ -26,7 +26,7 @@ date: 2017-04-04T00:10:14Z
 - [Android用のアプリ](https://market.android.com/details?id=jp.nhk.netradio)
 - [iOS用のアプリ](http://itunes.apple.com/jp/app/id473937342?mt=8)
 
-### <a name="footnote" href="#flash">脚注: フラッシュが廃れた理由</a>
+### <a name="footnote" />脚注: フラッシュが廃れた理由
 - [iPhoneはなぜFlashに対応していないのか? （谷 元博）](https://www.firstsync.net/archives/3669)
 - [なぜFlashが脆弱性のデパートなのか？ （NovaPress 情報セキュリティブログ）](http://novastage.jp/wp/?p=102)
 - [iPhone OSがFlashをサポートしない6つの理由 ― ジョブズ氏が説明 （マイナビニュース、Yoichi Yamashita）](http://news.mynavi.jp/news/2010/04/30/003/)
