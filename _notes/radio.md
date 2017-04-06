@@ -42,6 +42,6 @@ datadate: 2017-04-06T14:12:33Z
 
 ### 他のキーワードで検索
 <form action="/accessible/radiosearch.html" method="get">
-  <input type="text" id="search-box" size="75" name="query" placeholder="検索キーワードを半角英数字で入力。複数のキーワードの間はスペースで区切る。">
+  <input type="text" id="search-box" size="75" name="query" placeholder="検索 キーワードを 半角英数字で 入力。 複数の キーワードの 間は スペースで 区切る。">
 </form>
 
