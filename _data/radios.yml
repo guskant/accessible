@@ -1,3 +1,24 @@
+- id: piano
+  name: Essencepianoradio ピアノ演奏
+  keywords: classique classic kurasikku pop piano espana europe yo-roppa instrumental
+  stream: http://62.210.209.179:8011/Essencepianoradio
+  website: http://essencepianoradio.es/
+  codec: mp3
+
+- id: insthits
+  name: Instrumentalhits - Hier spielen die Instrumente
+  keywords: pop deutschland europe yo-roppa instrumental
+  stream: http://91.250.77.9:8060/;
+  website: http://www.instrumentalhits.de/
+  codec: mp3
+
+- id: tropinst
+  name: TROPICALISIMA INSTRUMENTAL 2, New York
+  keywords: latin north america kita amerika instrumental
+  stream: http://50.7.56.2:9002/;
+  website: http://www.tropicalisima.fm/
+  codec: mp3
+
 - id: abcc
   name: Australia ABC Classic
   keywords: classique classic kurasikku australia o-sutoraria eigo english oceania
@@ -76,7 +97,7 @@
   codec: mp3
 
 - id: frm
-  name: France Musique
+  name: France Musique. クラシックやジャズなど
   keywords: classique classic kurasikku jazz zyazu francais france furansugo europe yo-roppa
   stream: http://direct.francemusique.fr/live/francemusique-midfi.mp3?ID=f9fbk29m84
   website: http://www.francemusique.fr/

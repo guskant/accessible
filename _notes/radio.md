@@ -1,8 +1,8 @@
 ---
 layout: radio
 title: インターネット・ラジオ局
-date: 2017-03-28T09:49:51Z
-datadate: 2017-03-31T14:10:28Z
+date: 2017-04-06T14:05:58Z
+datadate: 2017-04-06T14:12:33Z
 ---
 ### 簡単検索
 以下のリストから検索キーワードを選んでください。
@@ -21,6 +21,7 @@ datadate: 2017-03-31T14:10:28Z
 - [ラップ](https://guskant.github.io/accessible/radiosearch.html?query=rap)
 
 #### 言語別
+- [楽器演奏のみ](https://guskant.github.io/accessible/radiosearch.html?query=instrumental)
 - [日本語](https://guskant.github.io/accessible/radiosearch.html?query=nihongo)
     - [NHK以外](https://guskant.github.io/accessible/radiosearch.html?query=nihongo+noflash)
     - [NHK](https://guskant.github.io/accessible/nhk.html)
