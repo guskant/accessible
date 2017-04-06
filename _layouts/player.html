@@ -21,9 +21,6 @@
         <button onclick="setPause()">とめる</button>
         <button onclick="setPlay()">つける</button> 
       </div>
-      <div>
-        <a href="{{ radio.website }}">放送局「{{ radio.name }}」のサイト</a>
-      </div>
     </div>
 <script type="text/javascript">
 var aud = document.getElementById("myRadio");
@@ -45,7 +42,7 @@ function setPause() {
 } 
 </script>
     <footer>
-        <div><a href="{{ radio.website }}">ラジオの音が出ない場合、放送局「{{ radio.name }}」の送信側に問題があるかもしれません。</a> <a href="javascript:history.back();">前のページで別の放送局を選んでみてください。</a></div>
+        <div><a href="{{ radio.website }}">放送局「{{ radio.name }}」のページ</a></div>
     	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate"></time>
     </footer>
   </body>
