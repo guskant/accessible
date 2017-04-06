@@ -11,6 +11,29 @@
  </head>
   <body>
     <div class="content">
+    <!--[if IE]>
+      <div class="panel">
+      <a href="javascript:history.back();">ラジオを切って戻る</a>
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'{{ radio.stream }}',
+'codec':'{{ radio.codec }}',
+'volume':65,
+'autoplay':true,
+'forceHTML5':true,
+'jsevents':true,
+'buffering':0,
+'title':'{{ radio.name }}',
+'wmode':'transparent',
+'skin':'radiovoz',
+'width':220,
+'height':69
+});
+</script>
+      </div>
+    <![endif]-->
+    <!--[if !IE]><!-->
       <div class="panel">
         <audio id="myRadio" autoplay>
           <source src="{{ radio.stream }}" type="audio/{{ radio.codec }}">
@@ -45,6 +68,7 @@ function setPause() {
     aud.pause();
 } 
 </script>
+    <!--<![endif]-->
     <footer>
         <div class="panel"><a href="{{ radio.website }}">放送局「{{ radio.name }}」のページ</a></div>
     	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate"></time>
