@@ -67,6 +67,14 @@ function setPlay() {
 function setPause() { 
     aud.pause();
 } 
+
+if (!window.console){
+    window.console = {
+        log : function(msg){
+            // do nothing.
+        }
+    };
+}
 </script>
     <!--<![endif]-->
     <footer>
