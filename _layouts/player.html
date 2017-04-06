@@ -10,9 +10,6 @@
   <body>
     <div class="content">
       <div>
-        <a href="javascript:history.back();">ラジオを切って戻る</a>
-      </div>
-      <div>
         <audio id="myRadio" autoplay>
           <source src="{{ radio.stream }}" type="audio/{{ radio.codec }}">
 	  HTML5に対応しているブラウザを使ってください。
@@ -21,6 +18,9 @@
         <button onclick="setLargerVolume()" type="button">ボリュームを上げる</button>
         <button onclick="setPause()">とめる</button>
         <button onclick="setPlay()">つける</button> 
+      </div>
+      <div>
+        <a href="javascript:history.back();">ラジオを切って戻る</a>
       </div>
     </div>
 <script type="text/javascript">
