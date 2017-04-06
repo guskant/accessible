@@ -10,6 +10,8 @@
   <body>
     <div class="content">
       {{ content }}
+    </div>
+    <footer>
       <div>
 	<script type="text/javascript">
 	if (history.length < 2) {
@@ -19,9 +21,9 @@
 	}
 	</script>
       </div>
-    </div>
-    <footer>
+      <div>
     	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
+      </div>
     </footer>
   </body>
 </html>

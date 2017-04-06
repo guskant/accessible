@@ -10,6 +10,8 @@
   <body>
     <div class="content">
       {{ content }}
+    </div>
+    <footer>
       <div>
 	<script type="text/javascript">
 	if (history.length < 2) {
@@ -19,13 +21,13 @@
 	}
 	</script>
       </div>
-    </div>
-    <footer>
+      <div>
     	<time datetime="{{ page.datadate | date_to_xmlschema }}">ラジオ局データ更新日： {{ page.datadate | date: "%Y年%m月%d日" }}</time>
     	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate"></time>
-	<div>
+      </div>
+      <div>
 	登録ラジオ局数： 83件
-	</div>
+      </div>
     </footer>
   </body>
 </html>
