@@ -1,11 +1,11 @@
 ---
 layout: post
 title: NHKのラジオ
-date: 2017-04-04T00:10:14Z
+date: 2017-04-06T08:51:05Z
 ---
-### NHKのラジオは、アドビのフラッシュプレイヤー・プラグインをインストールしてあるパソコンであれば、以下のリンク先にあるNHKのウェブページで聴くことができます。 
-[ただし、フラッシュの技術には多くの問題点が指摘されているので（脚注を参照）、フラッシュを使わせないようにしているブラウザが増えています。](#footnote)
-<a name="list" />
+### アドビのフラッシュプレイヤーをインストールしてあるパソコンであれば、NHKのサイトにある以下のページで、NHKのラジオを聴くことができます。 
+[ただし、フラッシュの技術には多くの問題点が指摘されているので（脚注を参照）、フラッシュを使わないようにしているブラウザが増えています。](#footnote)
+
 - [NHK FM 札幌](http://www3.nhk.or.jp/netradio/k/fm_sapporo.html)
 - [NHK FM 仙台](http://www3.nhk.or.jp/netradio/k/fm_sendai.html)
 - [NHK FM 東京](http://www3.nhk.or.jp/netradio/k/fm_tokyo.html)
@@ -34,4 +34,4 @@ date: 2017-04-04T00:10:14Z
 - [iPhone OSがFlashをサポートしない6つの理由 ― ジョブズ氏が説明 （マイナビニュース、Yoichi Yamashita）](http://news.mynavi.jp/news/2010/04/30/003/)
 - [Flashはなぜその役割を終えたのか (木村 博信)](http://uxmilk.jp/5784)
 
-[NHKラジオのリストに戻る](#list)
+
