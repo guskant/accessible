@@ -4,7 +4,7 @@
 {% assign radio = radio_data | first %}  
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=7"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="/accessible/css/memimoi.css">
@@ -22,7 +22,7 @@ MRP.insert({
 'codec':'{{ radio.codec }}',
 'volume':65,
 'autoplay':true,
-'forceHTML5':true,
+'forceHTML5':auto,
 'jsevents':true,
 'buffering':0,
 'title':'{{ radio.name }}',
