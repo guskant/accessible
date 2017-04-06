@@ -1,3 +1,6 @@
+---
+<meta name="viewport" content="width=device-width, initial-scale=1">
+---
 ## list of notes.
   {% for page in site.notes %}
 - [{{ page.title }}](/accessible{{ page.url }}) {% endfor %}
