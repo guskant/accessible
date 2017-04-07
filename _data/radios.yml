@@ -257,13 +257,6 @@
   website: http://www.radio-uspomena.de.tl
   codec: mp3
 
-- id: celtic
-  name: Celtic Moon Live ケルト音楽
-  keywords: celtic keruto europe yo-roppa folklore minzoku
-  stream: http://149.56.23.7:20188/stream
-  website: http://www.celticradio.net
-  codec: mp3
-
 - id: liveireland
   name: Live Ireland Dublin
   keywords: dublin daburin ireland airurando celtic keruto europe yo-roppa folklore minzoku
