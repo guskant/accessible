@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows での ChromeVox の操作方法
-date: 2017-03-31T02:21:06Z
+date: 2017-04-12T00:36:00Z
 ---
 # ページの操作には、フル・キーボードを使います。 六点キーボードをオフにした状態で、 Shift と Alt と R を同時に押すと読み上げ開始。 R の位置は、左ポッチのすぐ上です。
 
@@ -149,7 +149,7 @@ H の位置は、フル・キーボードの右ポッチの左隣です。
 逆に、見出しに飛ばずにページ内に戻るには、 Escape キーを押します。
 
 この機能が使えると便利ですが、ラップトップ型の Windows パソコンでは、 Windows 特有の問題があって、見出しリストがうまく使えません。  
-問題の解決には晴眼者の助けが必要です。
+問題の解決には Windows を管理者権限で操作できる人の助けが必要です。
 
 詳しい解決方法は[このリンク先](https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/How-to-disable-touchpad-diagnostics-hotkey-alt-shift-l/m-p/2182619#M66117)に英語で書かれています。
 
