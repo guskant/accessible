@@ -1,8 +1,22 @@
 - id: piano
-  name: Essencepianoradio ピアノ演奏
+  name: Essencepianoradio ピアノ演奏.
   keywords: classique classic kurasikku pop piano espana europe yo-roppa instrumental
   stream: http://62.210.209.179:8011/Essencepianoradio
   website: http://essencepianoradio.es/
+  codec: mp3
+
+- id: pianrelax
+  name: PIANO and RELAXATION.
+  keywords: pop piano poland europe yo-roppa instrumental
+  stream: http://s1.slotex.pl:7520/;
+  website: http://radio.musicdays.pl/
+  codec: mp3
+
+- id: wallypiano
+  name: WALLYradio. クラシック・ピアノ.
+  keywords: classique classic kurasikku piano north america kita amerika instrumental
+  stream: http://37.59.42.207:8367/stream
+  website: http://37.59.42.207:2199/start/piano/
   codec: mp3
 
 - id: insthits
