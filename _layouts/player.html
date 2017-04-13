@@ -81,7 +81,7 @@ if (!window.console){
     <!--<![endif]-->
     <footer>
         <div class="panel"><a href="{{ radio.website }}">放送局「{{ radio.name }}」のページ</a></div>
-    	<time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate"></time>
+    	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"></time>
     </footer>
   </body>
 </html>
