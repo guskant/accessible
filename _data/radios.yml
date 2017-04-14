@@ -362,6 +362,13 @@
   website: https://www.internet-radio.com/station/nobbie/
   codec: mp3
 
+- id: forrotrad
+  name: Radio Forro Tradicional, Brazil
+  keywords: samba bossa nova latin brasil south america minami amerika ptbr portugues
+  stream: http://176.31.107.8:8180/stream
+  website: http://forrotradicional.com.br/
+  codec: mp3
+
 - id: bluebossa
   name: BLUE BOSSA NOVA, Rio de Janeiro, Brazil
   keywords: latin brasil south america minami amerika ptbr portugues
