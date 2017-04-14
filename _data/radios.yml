@@ -365,7 +365,7 @@
 - id: bluebossa
   name: BLUE BOSSA NOVA, Rio de Janeiro, Brazil
   keywords: latin brasil south america minami amerika ptbr portugues
-  stream: http://69.175.13.131:8280/;
+  stream: http://37.59.254.27:8024/;
   website: http://www.bluebossanova.com/
   codec: mp3
 
