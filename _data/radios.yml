@@ -29,7 +29,7 @@
 - id: tropinst
   name: TROPICALISIMA INSTRUMENTAL 2, New York
   keywords: latin north america kita amerika instrumental
-  stream: http://50.7.56.2:9002/;
+  stream: http://tropicalisima.org:9000/;
   website: http://www.tropicalisima.fm/
   codec: mp3
 
@@ -344,7 +344,7 @@
 - id: tropsalsa
   name: Tropicalisima Salsa, New York
   keywords: latin north america kita amerika espanol
-  stream: http://50.7.56.2:8020/;
+  stream: http://198.255.32.82:8020/;
   website: http://www.tropicalisima.fm/
   codec: mp3
 
