@@ -259,7 +259,7 @@
 
 - id: mojzavicaj
   name: Radio Moj Zavicaj バルカン音楽, スロベニア
-  keywords: balkan slovenia europe yo-roppa asia azia folklore minzoku
+  keywords: balkan slovenia europe yo-roppa folklore minzoku
   stream: http://91.185.194.102:8030/;
   website: http://radiostanice.moj-radio.si/
   codec: mp3
