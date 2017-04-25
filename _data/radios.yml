@@ -257,11 +257,11 @@
   website: http://dibiradio.ro
   codec: mp3
 
-- id: balkan
-  name: RadyoBalkan バルカン音楽, アンカラ, トルコ
-  keywords: balkan ankara turkey toruko europe yo-roppa asia azia folklore minzoku
-  stream: http://176.31.105.44:8050/;
-  website: http://www.radyobalkan.com/
+- id: mojzavicaj
+  name: Radio Moj Zavicaj バルカン音楽, スロベニア
+  keywords: balkan slovenia europe yo-roppa asia azia folklore minzoku
+  stream: http://91.185.194.102:8030/;
+  website: http://radiostanice.moj-radio.si/
   codec: mp3
 
 - id: turkrap
@@ -306,11 +306,25 @@
   website: http://gardarikafm.ru/
   codec: mp3
 
-- id: arabic
-  name: Listen Arabic, Beirut, Lebanon
+- id: mtlebanon
+  name: Radio Mt Lebanon
   keywords: arabiago pop folklore liban asia azia
-  stream: http://198.105.220.12:4166/Live
-  website: http://www.listenarabic.com/
+  stream: http://206.190.133.196:7153/stream
+  website: http://rmlfm.com/
+  codec: mp3
+
+- id: lbtavern
+  name: Lebanese Taverna Stream
+  keywords: arabiago pop folklore liban asia azia
+  stream: http://50.7.70.58:8284/;
+  website: http://50.7.70.58:8284/
+  codec: mp3
+
+- id: angamy
+  name: Angamy - Arabic Music
+  keywords: arabiago pop folklore asia azia
+  stream: http://204.9.190.73:9302/stream
+  website: http://www.angamy.com/
   codec: mp3
 
 - id: vibemlw
