@@ -281,7 +281,7 @@
 - id: liveireland
   name: Live Ireland Dublin
   keywords: dublin daburin ireland airurando celtic keruto europe yo-roppa folklore minzoku
-  stream: http://66.90.73.250:8000/;
+  stream: http://69.167.190.234:8080/;
   website: http://liveireland.com/
   codec: mp3
 
