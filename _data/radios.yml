@@ -258,10 +258,10 @@
   codec: mp3
 
 - id: mojzavicaj
-  name: Radio Moj Zavicaj バルカン音楽, スロベニア
+  name: Radio Zavičaj Plus iz Godačice, Kraljevo, Serbia. バルカン音楽
   keywords: balkan slovenia europe yo-roppa folklore minzoku
-  stream: http://91.185.194.102:8030/;
-  website: http://radiostanice.moj-radio.si/
+  stream: http://37.59.41.148:5540/;
+  website: http://www.radiozavicajplus.com/
   codec: mp3
 
 - id: turkrap
