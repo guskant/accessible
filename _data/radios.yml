@@ -148,8 +148,8 @@
 - id: drc
   name: Deutschlandradio Kultur
   keywords: culture deutsch doitugo doitsugo berlin europe yo-roppa
-  stream: http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m
-  website: http://www.dradio.de/dkultur/
+  stream: http://addrad.io/4WRDBw
+  website: http://www.deutschlandfunkkultur.de/
   codec: mp3
 
 - id: sawd
