@@ -383,6 +383,13 @@
   website: https://www.internet-radio.com/station/nobbie/
   codec: mp3
 
+- id: mewbossa
+  name: MEW - Bossa Nova Mood
+  keywords: samba bossa nova latin ptbr portugues
+  stream: http://213.239.218.99:7283/stream
+  website: https://www.internet-radio.com/search/?radio=MEW+-+Bossa+Nova+Mood
+  codec: mp3
+
 - id: forrotrad
   name: Radio Forro Tradicional, Brazil
   keywords: samba bossa nova latin brasil south america minami amerika ptbr portugues
