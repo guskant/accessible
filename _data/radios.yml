@@ -407,7 +407,7 @@
 - id: agtango
   name: Argentine Tango Radio
   keywords: latin south america minami amerika espanol
-  stream: http://178.32.62.154:9364/stream
+  stream: http://51.15.152.81:9076/stream
   website: http://www.argentinetangoradio.com/
   codec: mp3
 
